@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-09-06T17:43:06Z",
+  "last_updated": "2026-09-06T19:35:00Z",
   "data": {
     "top_stories": [
+      {
+        "title": "GPT-6 Astra: A new generation of intelligence - openai.com",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
+        "source": "openai.com",
+        "timestamp": 1788723112
+      },
+      {
+        "title": "The Amazon Service Bezos Nicknamed “Artificial Artificial Intelligence” is Closing for Good - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUhfSF9WS1I1RHpXb1I0OVZPOFlYVEt0TFpLUWVhSlN0c3c3UGxNUDdlaWdGSzRvTzNPOUx3ekFxTlo5YUc5TkdDbF9kbWpwbWZmZ1d4VUlJR3FLQmhVUUV6STBlSjBDbnBIZnpOTm5POUh3UXFmc0Y5TWE1RGVPNV9MaGhDQmZwcGhPQm9Wc2F2Z0liV0Z3QlF4ZzFkckxzSWlFOElaREhqbDZh?oc=5",
+        "source": "Yahoo Finance",
+        "timestamp": 1788722479
+      },
+      {
+        "title": "Arista Networks vs. IBM: Comparing Quarterly Revenue Trends Between These Artificial Intelligence Giants - The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaDUwZGZ6SC1LbzRjMW94OXBrLUdqNGdnWUxMRTVnN1kwZVFEVzJiTjZsZXVHUmZ1VV9oOUJmcWt2ejZYSVhsb1pYY2EyclI1NkY2VDktSWNKNHU1QTR3WFdta2lhWkNkNmI1ZWxwRXV3R0pIT3Z6YlVGMjBzaDBxZWg5bjdHbUJiZ2lXcTBIeHVtQ2V1Qmk5cXQxNWp4OVVrSTVhWkcxTDljYXEwNW5UTjV3Sk5JWl9Lajdzb1ZwVjNlRWZTODFrMXB4ekNkdlJyT0I4MkJvWEFTRG80Vk56Q2E3MmlZUQ?oc=5",
+        "source": "The Motley Fool",
+        "timestamp": 1788722454
+      },
+      {
+        "title": "UH launches free ‘AI for Hawaiʻi’ course for everyone - University of Hawaii System",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52T3RaQllBVkNLMzUzZ2RiU3VrZVI4U2VoVTdWWFdxeUN5X25xa2Jfc0praURvNkpGSTdGb05obDdyWURIY2VwR1NKdTF0RVFLeXV0TV9fYl9ndlNGdnY2ZFQ1LUpsUTkyb2c?oc=5",
+        "source": "University of Hawaii System",
+        "timestamp": 1788720302
+      },
+      {
+        "title": "M&T Bank expands enterprise AI after years of technology overhaul - AI News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmJFNXZ4TjNEbXZJUFMxOThxTEM2NkhmX2xicHpnXzRNOTY5TkFJdy04eV9ucTlWYzdObnpRdlF5QW44bkZYRUpmT1BKSl9maS1xR19HLTVMS0wtWDhlbHRqNkw0VWlmV3hTZTlkOUY3Um1JS0NSUkNPWFh4QmRqNkNMX3hfcTlFRFhkdjBCb3c?oc=5",
+        "source": "AI News",
+        "timestamp": 1788716489
+      },
       {
         "title": "Science Cafe returns Sept. 15 to discuss AI impacts - Concord Monitor",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOS1YRWt6bGNrSjJyWlFScGt1aGljS2oyOVRaa1ZFTHlmMnNNa0xRR1Y1VFFWOHlGdDMzVWgwMDNIUHp0dnFfUi1KM1k2czFvZTlqM1ZiQy16WTM3WVIyUXM2SUQ2MHdyNkphdDlLc1JhMWNERXBGVGhaVzJSM05KSnNR?oc=5",
@@ -9,22 +39,16 @@
         "timestamp": 1788715032
       },
       {
-        "title": "Artificial Intelligence Stocks To Keep An Eye On - September 6th - marketbeat.com",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdV9SdjdsVjhkX085aDE2Zy04OERxMmwwbTl3V2o3aTF0WGtpc3JBM1cySmlmX2taYnFJMWRDOW1TUWtTV0VOaVlldF91OGNKeWN5WktiTHRTTVBULVJURFFJZ0QzdVVUcXM0MVE1LW5nQ2RmOWtOUU1YcDZPMzFzNURHYzl5RzRLUVZDRXhtSGhGdjMzdWlfYjJrTDR3cTdrMGJrRWJ5bjl3Q09NN01uOVFIUl94MXFEZUFqY0x3?oc=5",
-        "source": "marketbeat.com",
-        "timestamp": 1788714375
+        "title": "At Telluride Film Festival, Bill Gates Compares Lack of Control Over AI to HAL in ‘2001’: ‘You Could Say “Please Shut Down,” and It Would Say, “OK, I Took That Under Advisement, But…”‘ - Variety",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWNmYzJmT053aVBmUzE5Ym1SenowOXpKdGk5WEUzSjlTajM0MW8yaW04ZG5zak16bmNzR2FaVlV0WGYyNGMzdktLRWRNMV9PbjFhT0xHc2xuVllpRk1lWFNnYkFwM0JLdDZ4VU1iY0VTUHVaN1ZYNDNJell2NE12bm1ROXJCSDRSczRJbnZ4QjNGcHZ0ZGVRQU5VcDl4UFE?oc=5",
+        "source": "Variety",
+        "timestamp": 1788714480
       },
       {
         "title": "Artificial General Intelligence: The Milestone That Disappears as We Approach It - www.lvivherald.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN2tzbGpCbEx0WWhuM0k0anlxMXU4QUIycThHMTU2dFdiQkxnRHF0TUJmNHc5WG1uZkhMd3pkeEU0TG92Y1c1cFY0OU1oWXJJZDE0dGJoOVhETnhVWjZKLWx2WHZlbmRyazFrU21sVTBBQ1RnaTR1UnFZbFk5LXYtZkpEU2xrbXp3Szc1QWd1U19NZEpPVXdlMzVZZ29Ld3g5RkpEakJ4eDQ1ZTFTLTlmcw?oc=5",
         "source": "www.lvivherald.com",
         "timestamp": 1788710959
-      },
-      {
-        "title": "These teachers fight AI cheating with classes that force students to show they are learning - washingtonpost.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOF9aeWFIYkNCeVJSQUpVaWtDalFWaHBfUFBRZ0dFRW9OOHprZHFmbjJMaWpEZEdISC1zQlQyNVBuR3hxRmRIeldFa3pQeHlBZkEtSDhmcEZIRFJ3WW1CT1RhODhJTEJXV0ZEMWd4OVZrVF81LWZRMXZtX3g1ejgxbFpUQ1FDMkJwWDNmWUZ3YjcyMEhrblFpNFRUbDBmckVKejNIbHB4c1g5dFotQ0tn?oc=5",
-        "source": "washingtonpost.com",
-        "timestamp": 1788710400
       },
       {
         "title": "CoreWeave $6 billion Lancaster data center - StartupHub.ai",
@@ -42,37 +66,13 @@
         "title": "A Caution About Artificial Intelligence - The ClassicCars.com Journal",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVk1rZnhVQ1piYjJwanZBc0lrQzJqaTdpNXdBZXoxdEtyXzEzaWtvYUVyeXVwTExZNWwzSWxtZDZISjdOTU94OFFocVM3RnJzQkRVV0dHblNLUUtvZjk4YjBueHpycWZOdWJLNGJ0UkNLLXlrVWxFZmZCV0MwdEtYamE2Tnpab3RfNnBV?oc=5",
         "source": "The ClassicCars.com Journal",
-        "timestamp": 1788703201
-      },
-      {
-        "title": "AI anxiety comes to Telluride, with Bill Gates sounding the alarm - latimes.com",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHQ0WnlPSWN4MzRodG5PWHA1VlB0X28xMXhkSzRIaFpmcW56TUZZcVZnakNrbF81QV85MkwtNklsdGtxQVVkOU1pRFlITkRyNi1jYWQtZ0NubmJzUEtLMlJDVkJJX1ZTT045WEZYaFlBemc1WTJNdnRpZ2tzV0RSVG9EMkNBMVhPZTE2dTlHM2djZUFMaXN1SjVjUkRrdWZiWkt6bmkwSkRILUFmazhONnRBdkMxUzFXZGEzNVFpYw?oc=5",
-        "source": "latimes.com",
-        "timestamp": 1788703200
+        "timestamp": 1788703464
       },
       {
         "title": "As new school year begins, districts deal with artificial intelligence - nny360.com",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbnRHY1k1amlaZWJJMGhaV2R4RmU2VUFUUlZyWjhRZ2ZTcTZfejZfdFRTN05YYVB2NXk5dHhQcE5mQjk3WEdGRmtGdzJRM01xaTZfWjkxUHhOWURaQmIzdU5aNW9CVzJFbFRKUjhvdHlwNGVET3ZfcV9BanJkYVhKUTFJVDg4UjQtZGZvRjhGUkpCMUZVd21aRXlNRVZlM2ZublVUYTNHQloweU1DcFlqZHBEaUdYV0dCeUY4WWJjMVFUQ1dVMFFlbkVmcWYybDFwT0pDX1ozbmZJZGNIVi1jRFNseldKRHFwOXc?oc=5",
         "source": "nny360.com",
         "timestamp": 1788702300
-      },
-      {
-        "title": "AI research center coming to Cal State San Bernardino - San Bernardino Sun",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYV9qaC05bkZMODBOV2MyMjlSQTFFQldwcUhzNGpfcEctY1RNY2xiS3RVSWJyY1FtM2dna01NWHRfXzlhLVFEMDlRNndxQ0tGY1kybE1MbWRIdzJ5MXZpNDhfSG9lbzVvekRIU2dBWW5KMkxTM1ZjOEdBU3ZOUklJSlRhd3ZLdlpCS3lQd19GcXU?oc=5",
-        "source": "San Bernardino Sun",
-        "timestamp": 1788701701
-      },
-      {
-        "title": "Iowa should treat AI savings as matching funds for mentorship - iowacapitaldispatch.com",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZFpmaWZwM1p6S0RjdjNYVnpVMGc4ckFrM1MtN1R2TEs1d0FaWVNvTUotSVBkUWZFVHJSTkxIeTVTWVVOdzNqeDRxUExqektOalp3Y2tHaHZQUkhabDhBMzdKbVpoM0ttR1hYVUp2VDFxMU43UGF5TkJkUERFQXpLcnFMUjhRNHUyWkVUdW5POVNUV3VCODVKTVNqVHRCb3duVkZYanBUdFA?oc=5",
-        "source": "iowacapitaldispatch.com",
-        "timestamp": 1788700046
-      },
-      {
-        "title": "Poll: A polarized America unites behind deep concerns about AI - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTEwWGxpLVluYmxMbHRLTGxmNEFZMW9xV29jc1g1cTRPaFNhRVJoN3ZoMjRVSWk3Q1cxV2pqZ2hQemtaajY3NFVKUXlrTmJESzdzNnZUWlVzOFZRa3RSbDk4U3BMN2NsamNVUzNfTVF0QWtIUENsNlNOUk96NDlha3VCY3hSbG1fV0tzTXBOLVVFczZQSE91MGhEa0kySmE5TktjN0FKbw?oc=5",
-        "source": "NBC News",
-        "timestamp": 1788699600
       },
       {
         "title": "AI data centers are transforming rural land markets — and fueling a backlash - CNBC",
@@ -95,10 +95,10 @@
     ],
     "models": [
       {
-        "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+        "title": "GPT-6 Astra: A new generation of intelligence - openai.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-        "source": "OpenAI",
-        "timestamp": 1788716359
+        "source": "openai.com",
+        "timestamp": 1788723112
       },
       {
         "title": "OpenAI Reportedly Finished Bel, the Model After GPT-6 - Pasquale Pillitteri",
@@ -111,6 +111,12 @@
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVY4LTVRRzVqZkhzaDRncmdldFhZdG5xdnhUZUo3RDZ2MHBxODJDMlhleUtqZjVpU3FQeWwtRExZQmlSWmJVXzNHVUZUUVBXMVN1YmNXMkd4TlVRWnpzNzJuVTZqLU5LVzk5ajlpdXVFVkZyWHB4M2JxRWRTbXRWMUdxTGpldw?oc=5",
         "source": "HackerNoon",
         "timestamp": 1788709699
+      },
+      {
+        "title": "Anthropic, OpenAI, Meta and Google All Shipped New AI Models in One Week - Startup Fortune",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2ZxWVRGaTFpd3Flclo5MlZGVVlZcEw2dzJ4eFZIc3BPR3l4WlhOU1A1N3luMnQxSU9taER4Q2Uxcmp6MElYNW1qaE5XUEpwOEQzQ2xzNWtiQ3ZiSFItQ0REMjBXcFBidnlDZFhEYkpBNDNKTzVXMEFEVHlHaEQ2M0ZKRUp5bHdyQVZYQ1lrb1YwMm13SjNMVmZ4WjZhWFU?oc=5",
+        "source": "Startup Fortune",
+        "timestamp": 1788701052
       },
       {
         "title": "Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data - the-decoder.com",
@@ -143,9 +149,9 @@
         "timestamp": 1788679876
       },
       {
-        "title": "AI and traditional farming can coexist: Google executive on Indian agri models - The Indian Express",
+        "title": "AI and traditional farming can coexist: Google executive on Indian agri models - indianexpress.com",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT1pVX1hvc1loX3lROWRJM1dFWloybEpSbThoY3dkcjVlTFo0dlREUWpFaF9jQWtrdVVRMWozX2N6ZGtJMG5ndjl0ZF9lMmZPZmtEWmk3V0ZUenVLc29VZ0xxUFZQbzJiQmo3WWZ6LVNWVmxoWGdMZGdiVS1CN3ZuZmRZRk12TzZvSjlkZkRpaVV1VzAwbUpZcVBNVVV3M21mQU9oUU92bTA3UlJJYXhkUUxOMXVGakYyZFkzYnhzS0d2aDYtV0hUR21ybGhjWXA2MmVqb1lEaHhtQ0tjMWw3MWZpUGZuTmJu0gHvAUFVX3lxTFBRTU4xOFpQMjRPd2c5aXdvcXN6SFNzTGJLYmlxenA0Tm8ySmU3d0VVQ3JWMnF4LVYtUkR4NGw0LWZDWTFLalA2ZDNSZE1uaVR1cGVlSk45MWxXQ0pMRmVUVk1USTB0UVNiYlFsRC1tMkI0MU43QjRJY0YyNGRGc0ptVFFLWlU2cjBqWG1qekFfdGxkRk1EbEt5Si00QnViVDU5eFRPR2kwZ2xzY3l2VlZjWm92NXdwUUFXUFBRQnRFYzJjbUdLNHB5MnpBcWlVeVMzYUpBRl9iUUROaGNJVm5kR1RYeFhCQUM2Uno1Ri1j?oc=5",
-        "source": "The Indian Express",
+        "source": "indianexpress.com",
         "timestamp": 1788674996
       },
       {
@@ -167,30 +173,24 @@
         "timestamp": 1788656473
       },
       {
-        "title": "Gadgets Weekly: Redmi 17, Vivo T5, Samsung Galaxy Book6 and more - Deccan Herald",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQVhVTEx1THBZVDZ6NXJrRG8ySy03UmVfWUhXeGlRTEtVSGc5dG1tTGlrYVBPX3VuY3F6NmFlYk0tMXJEMTdhZ25LdndWam52eTVqVU5ETHJEV1FvMkZwV19meDU0cUhVclp0a0lEbWtKcGMyeXF0OXc0NWd5cHRoYksxMUtqZk43bERsb01vM0JmR3B6WkxnQWhXMkV0cjdaSHItbm9NX1BfZGJ3d2p4ZFR0QnFvbENtdHhVRDZB?oc=5",
-        "source": "Deccan Herald",
-        "timestamp": 1788651600
+        "title": "Seattle Times and Newsday Sue OpenAI and Microsoft Over News Scraping - Startup Fortune",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeTF0dzhNTXd2Z1pIR1dKYnRFVkZDNWI2N1BQSjFWaUxjMll5ZkpTMFRwQW1hNV9fRUFMV1QtQTZhcXBPMndHUUttSTJJNTdWd040cDBtZUNmbzU3ZkFIRWJXSHRkUURfdVlUZDVQUjdXNmdWZUVnc25hWk1xbDNzUjczU0VvWHlkWW9SSFVCamRCeG9FQmhyZ245dVJkQQ?oc=5",
+        "source": "Startup Fortune",
+        "timestamp": 1788647282
       },
       {
         "title": "GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestration That Builds a Workflow Per Coding Task in Copilot CLI - MarkTechPost",
         "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQd3gyb1lGX29kU2RodllKRDI3c0QtY2l2dzVXS1NtQTNzRHR2TVZ6NWo4WVY2ZjlrWHdaQ3JNMXhWY3M2TmRFVVlrRHFCTmdjS3liWVJDWlc2cmt6N0xNWUxfeXVnU09VUTJkSURPNWJ6YXVCNjJHMzAyZDduUFNHN2dYNm93QXVVd1FfWERDMHEzaW1yZ21wU280Y2o0dEtJU0U0bTBzU2N5bjhibVc2OFdzY1NQbG5QeVNSMGdLQktyWE81c3FpVFp5aGVrYUhpckVUemI1RGNuVmpqMzBVTUd2ZnhNcm1xUU9Ddkk5UmlGM2NFLU9vRlYtRzczRmfSAf8BQVVfeXFMUHd4Mm9ZRl9vZFNkaHZZSkQyN3NELWNpdnc1V0tTbUEzc0R0dk1WejVqOFlWNmY5a1h3WkNyTTF4VmNzNk5kRVVZa0RxQk5nY0t5YllSQ1pXNnJrejdMTVlMX3l1Z1NPVVEyZElETzViemF1QjYyRzMwMmQ3blBTRzdnWDZvd0F1VXdRX1hEQzBxM2ltcmdtcFNvNGNqNHRLSVNFNG0wc1NjeW44Ym1XNjhXc2NTUGxuUHlTUjBnS0JLclhPNXNxaVRaeWhla2FIaXJFVHpiNURjblZqajMwVU1HdmZ4TXJtcVFPQ3ZJOVJpRjNjRS1Pb0ZWLUc3M0Zn?oc=5",
         "source": "MarkTechPost",
         "timestamp": 1788637211
-      },
-      {
-        "title": "Moonshot AI's Kimi K3 Proves Frontier-Level AI No Longer Requires Frontier-Level Spending - finance.biggo.com",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JUGhsVVVqSmFCLXRiNXlmaTJINTJSS25FMjh5Tk1ISnU4UEF6dk1ZSHVEblV2TWxOMWJrRTV2bF9rWlBPMDdURXVBX1VENXFqNEszUjlrQlhkSzZPeURTTEJjbG9fdUhkRkhJYm03cWlPLTBpNEE?oc=5",
-        "source": "finance.biggo.com",
-        "timestamp": 1788631620
       }
     ],
     "tools": [
       {
-        "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+        "title": "GPT-6 Astra: A new generation of intelligence - openai.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-        "source": "OpenAI",
-        "timestamp": 1788716359
+        "source": "openai.com",
+        "timestamp": 1788723112
       },
       {
         "title": "VOIDTRACE AI Advances Multi-Agent Intelligence Platform After September 4 Public Rollout - StreetInsider",
@@ -215,6 +215,12 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYkxKNGtKaFFySktUTHF1ajU2TjhVX3Z5SDh0MnRpY04xamRUbk5Fb1I2bzdENTBYU3lPYXMwVjE4TVlDTFdlNFVUX1dVemNFQWZFNDNNREtEek84MFhpY1JNamVJVGc1dTdVT0x6NklNcVZSOVI4SVNnQ2ZrajJHOFNMQXZSUURwYjZQN1lzRV8zOEYzSVFsbXZvNGF2cXY4VXZvag?oc=5",
         "source": "NeoTeo",
         "timestamp": 1788698060
+      },
+      {
+        "title": "OpenAI dares developers to ship with GPT-6 Astra in 24 hours - Pasquale Pillitteri",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaFNNZWZtNnA2YzlHbFNHU0pqa0E3SzVSQ2F5OTN3V0FuU3MxdC0xWTNVbjYxMUw5UDNTYy1yNDFWaFhBaDFNQTVfVEU2Z01RMDVhWkxFX0VWeXZ6MzZhMHVISEp0Snh1OTJ0MVNYYlY1WEhZaXVTVkxRV3NXY0NNczNKa29BWjlYeVFHN25QYw?oc=5",
+        "source": "Pasquale Pillitteri",
+        "timestamp": 1788695360
       },
       {
         "title": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model - the-decoder.com",
@@ -247,9 +253,9 @@
         "timestamp": 1788679876
       },
       {
-        "title": "Google brings Lyria 3.5 AI music generation to Gemini - We Rave You",
+        "title": "Google brings Lyria 3.5 AI music generation to Gemini - weraveyou.com",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zc0dsVWl0SWwzdGtUZHU2OUFCM0MyOUZxR0xfUHJTS3J1Q3FlMS1EVEZxWmZTVnR4ZWM5Z3ZiSGs2WjJfdFNsdk5PWWVTVUpuXy1hRlRYbXdxelQ3YjFMVmpQQ1hfc3ZseHJwNWRqMXQyWklMWmdzWXlabjNTVlU?oc=5",
-        "source": "We Rave You",
+        "source": "weraveyou.com",
         "timestamp": 1788675494
       },
       {
@@ -269,19 +275,13 @@
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50T1JJT3FPQmNBaXZ1bG1yZlZjLTRpaXg1UUVETmhqejBJOXhtbVI4UFlmWUxlNUtubEFCUXNtSXl1dlktTXAwcllZNnRwUG1HRk9RTFpRWGNnckxraTRnd0Y2VnhyQzVaUFE?oc=5",
         "source": "Metricool",
         "timestamp": 1788654255
-      },
-      {
-        "title": "ChatGPT, Claude and Grok’s Overlapping Outages - quasa.io",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUVFoMHlPd1pnaGlPalNjcmFnRHRZeGZqWnNpNzR4b3h2djhDLVBSa21uQkxKTWJ5bmtmZ2xObWwtTVAzdkRXMnppczZPNjc0MFNXUldQc1VrSWZsejhxRmw2c2ZYNEVRay1vWU9PY1NnRjh0Vy1iZVRxWTVHY1VicDFPdXFpN3FTRlFvVWotdEhYUU96RHBuN1JfOA?oc=5",
-        "source": "quasa.io",
-        "timestamp": 1788639120
       }
     ],
     "industries": [
       {
-        "title": "'59% of AI initiatives already delivering tangible business value' - The New Indian Express",
+        "title": "'59% of AI initiatives already delivering tangible business value' - newindianexpress.com",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMTQyd2xRMkxsRjFEdGt2M0J0MF94bVBTb05KekdZbzNoWmp5czM1NTBZRG56TVN4NG1Mb0VTOVQxakJzeE5iWnNvbDRzUkVSSG16dFhRZ1lLYl8zMXdrSk9CeG9MMjZZR2ZQd2p5bnNvd1lDdjhrUGNTbV9GWERvTVhkcmpkTFNYUnZXNHlXUkhfcUxaUkdJX1lISThPeFpTYm5yYldCbncweUk2TWFLTldYaDdqSWdG0gHGAUFVX3lxTFBxaUVpQTBmWGV4RkJuQTRQX1RVcF9KbjNqR21vU1ZfMXYyMjJqVlR5TURxN3pWaGZkNmFxNHR0Nks0aExldGFTbHp2bS00MHhNUmVidFluNk4zRkR5S1VLaC12UHh4RG9yMEc2SDJnclE3d3ZXWThtNW9QeXJRc0YxdExOZnRqczFOMkRoQlNpSWYwWEpRNFlBazNHQVZRVDBUNm5vY1h6Y1FRLWxUeXg1XzRKVU5uYWdtWWdfQ2V1bmNERE1CUQ?oc=5",
-        "source": "The New Indian Express",
+        "source": "newindianexpress.com",
         "timestamp": 1788712942
       },
       {
@@ -333,9 +333,9 @@
         "timestamp": 1788682990
       },
       {
-        "title": "Leading Minds Probe AI’s Next Frontier at Supply Chain LIVE - aimagazine.com",
+        "title": "Leading Minds Probe AI’s Next Frontier at Supply Chain LIVE - AI Magazine",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb3U0S2RNYk84Yi0yeGFRRjlpRWVKOFdka3I3OUYtbHBEMlZhXzV3THh1Q3FNcFRaSWRLSXBxTy1GeEFudFpKbjNhWUgzWnIzRzJlMkVrNXZuNmNfWjFsNi1tLVYyTHRsNXRpV1E0eEV5ZWVObE82TnVKMk94UkxEaEdQajBwTUl4R2NENG15RQ?oc=5",
-        "source": "aimagazine.com",
+        "source": "AI Magazine",
         "timestamp": 1788682131
       },
       {
@@ -343,6 +343,12 @@
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtbk5jOXZPVXRjc2R0MmUwZnpmQ0h4clpoN19SZm00bjREeUp0RUo4WkptOS1KbmNDX2d1Z25pZHlqUGtPSmhaVmxBZlJUaDBvakExcGswVk9QMEJmQVIxdnJkUGdXakxNTk83QVpVdk4?oc=5",
         "source": "Fortune",
         "timestamp": 1788680882
+      },
+      {
+        "title": "AI is guzzling water & power. Here’s how we can fix this - ET Enterprise AI",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVTRyRjNoeGtaTDdkVDFVVFhlQUpZWGVXUS1RUElRenU1MjgwX2FjeVpsRFdGb3dtQUI5ejlKYTZjNHpEdy05RkdVMkVjcGJqUlZhNDVMamZ0UXpnWnNvVE5XVGVTZFlJRGNDQnV4SHE4RjRPV2VsU2xZMG1oeHJwaFJhTjBLeEFaNGhNaVBoSVhVNnA1S2R6S3dTVEhPY1FXLV9WQkhNVFgwUzdxQXAxSWV3dWdtMUxRb3k1RXVXNm9ENW8x0gHKAUFVX3lxTE9DanNoY2NUT0l2NDhWMEJyRmlLR1Y0ZVRvSFVZckR1R2V1cE1zX0dSd2dPYmZDUFR1UzQ0UElqamNZXzl5d0VCcFBwV0VjNS1jU2otWUtLNEkxSGs1a2gyTTBVQTVQd29oWHlmQk5ycGRXbHBaNTNRc3N4SVhhZ21ORWNPUUR6Ymp1ZHBUUFhxbUl2c3JXOTZWd29pYnlTbjRiN2otSHlKdy03V0laaEZIajcxRVo2dDBQRGppdmNZQ0hFMGJRQkwyVHc?oc=5",
+        "source": "ET Enterprise AI",
+        "timestamp": 1788678309
       },
       {
         "title": "Adopting Foreign AI Alone Isn't Enough: Securing Manufacturing Sovereignty Requires Seizing 'Field Standards' First - finance.biggo.com",
@@ -361,15 +367,27 @@
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2Rod3NhaGoxV1pkc0hXdzYxYlJwMGtEOWY4M1B3bEdmaVJyTzctaGdDcVB0ZmV1SnBHVk9pUUlXcGxqbnhrbnp3c0RCUTN2aW1jQ2Y0cGhtMDA4aDg1dmw3RGZVeEV1czNSaXVGUlU5NzZieUFIV2psNF9Wc080d0xZQU1xWGRGd3NSVkFpRW9UUy1MQm45NXNPV0Q?oc=5",
         "source": "IndexBox",
         "timestamp": 1788667260
-      },
-      {
-        "title": "Two Chip-Equipment Stocks Just Crushed Nvidia. Is the AI Rally Broadening? - Yahoo Finance",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRlFxcWtZdkFQWTE2a0xGZHFIcC1LTzJKbnpqeVZPblhiOU05SUVmdUFocWxDdHc5S05nYndqLWxqeTZWRS04NmMwSEFySGd6aVRGUU1IVXVIMTBWUGx5SlpwYnREUnJNSTItanlNMnNDQkNIbWcyTkZ0c1I2NXA2LVl0ZmZzb21RX2ZLV0V1M0dINFNhb2c?oc=5",
-        "source": "Yahoo Finance",
-        "timestamp": 1788633812
       }
     ],
     "research": [
+      {
+        "title": "Proposed architecture for inferencing sparse MOE models increasing Active parameters using layered + linear decay. Succinct reasoning without any model training or fine tune. [p]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1w94dtn/proposed_architecture_for_inferencing_sparse_moe/",
+        "source": "r/MachineLearning",
+        "timestamp": 1788720094
+      },
+      {
+        "title": "Point density, not architecture, was the bottleneck for a 5-class radar-only object [P]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1w934ew/point_density_not_architecture_was_the_bottleneck/",
+        "source": "r/MachineLearning",
+        "timestamp": 1788717331
+      },
+      {
+        "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/",
+        "source": "r/MachineLearning",
+        "timestamp": 1788715779
+      },
       {
         "title": "I built a local-first hybrid router for AI Agent Skills (sub-20ms, zero tokens, runs on CPU) [P]",
         "link": "https://www.reddit.com/r/MachineLearning/comments/1w90x3i/i_built_a_localfirst_hybrid_router_for_ai_agent/",
@@ -389,10 +407,10 @@
         "timestamp": 1788703740
       },
       {
-        "title": "A survey of data augmentation methods in multimodal frameworks - bioengineer.org",
+        "title": "A survey of data augmentation methods in multimodal frameworks - Bioengineer.org",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQekR6SjBFUHcwRlVfdGVMUjlONkdYY19FdlBudG5paldtZFUtel9xMTNiWjc4SE1nOFN1aW84Yi1RY0VmOFZyYmFtaWRxWUFjRmNxMXA3S2FTRkc5bTk0bWllY2xhbTlaal9FcFFOczFnUDJtMW0yS0RNbXhTTHdQY2VrMlVCeVdDWXotbDd4bnQ?oc=5",
-        "source": "bioengineer.org",
-        "timestamp": 1788698169
+        "source": "Bioengineer.org",
+        "timestamp": 1788699051
       },
       {
         "title": "Scientists Use AI To Decode Animal Communication, Finding Whale And Crow Calls More Complex Than Once Thought - International Business Times Australia",
@@ -429,32 +447,38 @@
         "link": "https://www.reddit.com/r/MachineLearning/comments/1w8g1gk/astra_vs_fable_51_on_real_ml_tasks_tradeoffs/",
         "source": "r/MachineLearning",
         "timestamp": 1788651229
-      },
-      {
-        "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
-        "link": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
-        "source": "r/MachineLearning",
-        "timestamp": 1788635476
-      },
-      {
-        "title": "Tether is pushing the 13-billion parameter BitNet b1.58 LLM to the edge. - TechCrunch",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnVnaVduS1pTYmdDRi14RjhvVGFxUzJLb0tiQkVROVdtSFd4S1lrTTZDOC1RR00zcTZoa29qeThVZmhyVFlQME5lVFRuS0o2cUw5QUFqTXp5WUJNZUdkc3h0dE1WYnFBQzl6dEk4RHFEWkgwZDVaeEFHdllkTnBDb3NJanRLSHpiUGlqOHNvSGNsMVlxcURMdFJjNm1MLWhBSlFpOGNuX1hzcHZjQ3BJ?oc=5",
-        "source": "TechCrunch",
-        "timestamp": 1788631527
       }
     ],
     "policy": [
       {
-        "title": "Is Meta (META) Trading Cheap AI Access for Long-Term Data Dominance With Muse Spark 1.3? - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeGFZS3pPelNkZDNjeThlT2JSSTVWMFB3MWpCSFdQenFqX2NLSW53TXZZYnNNbFRKajhkbktkemVhUWg2LWxXZHF2UXgwNlQ5Q3BDQUZ5RDVMUS16cUxVYUU5QWJYWFczQXZlVDRORFFueFNJYnNrV2l6cWRweFBPUE9FYkpWa04wLW1vbUx1bTJUekx2NjZ0aklheUloU3J5dXRWb1F1YTMyb3dQMWhvcjJ0M1VoYUJRaWhWY0FxMnNUejY3ekdsVU1B0gHPAUFVX3lxTE54a0dabmdIUGd1X0dtV3MwOE1ESGNJMnZJWXppN2xlQWpPbVVPYVotbWN2VWM1aEtobEtCaW1xZmNadGxxZHNrMjlEaVJOWGFwV0xqV1UtX3dUV0ZDeXhIVG53bU9PWkZSVEtvU2lBMVRBZUFzOGFzOFhRdDYtcWpRWWJUSzRIR2RNYXpYOXVTQnM2dWVTNXpEeXZFQ1o4R0llWi1ZZU9KcnBNUVdwc1ZXa25GRTd2NF9BUjNPYjhtNVloVlBmV1ZPZmloX0RZbw?oc=5",
-        "source": "simplywall.st",
-        "timestamp": 1788715436
+        "title": "OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences' - Business Insider",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcE5ZbFRhcWxwSG1FMUN1VnFPalBuTkRBOUVfdWxiSl96eHlXb2ExY28tWW0wbXk2Vk8zb2toM1ZQNk9qbG8zbmZwdlNnWFpTcWFFLVpPVGFvOUlBQ2RNMnhBTnczVWpMTkx3STlNcXJsSGczcTlTOHdDV3hiLUIwVEl4NzNYT0d2SUtIWkxFbHE2RHpEUGVXWThSaUVmUjJianp1QW9Yc2ZEem1PMHJhb2Nn?oc=5",
+        "source": "Business Insider",
+        "timestamp": 1788722772
       },
       {
-        "title": "Opinion | AI doomers can’t have it both ways - washingtonpost.com",
+        "title": "Commentary: What we learned about AI last week should terrify all of us - latimes.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbWhwSVNIRGkxYU9kd2hkYVZNb2ZMTFVvUGZLaWJtc2ViYkd2OVdfbFFXR3VNZG80VzIydHRoejVkdU8xNUNldEhKcC0wNlM4UFdVYkNib0MxVXM5Y0RFQS1OTHVselRzQlFrM1l1MExNdThHaHVrQVRDX21ZbjlhNlhwTFFicUxlX0U3LTNHXzRDb0lWYzdXekJhT3RIalozWWhvTk5mM0M0WkN3NTdHSQ?oc=5",
+        "source": "latimes.com",
+        "timestamp": 1788719100
+      },
+      {
+        "title": "Opinion | AI doomers can’t have it both ways - The Washington Post",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkNjNjNKdjdwQWhXNS1Xb25IcVpKcWQ3ZXprQ1FpY0lzaTFTWl9ka1FDYmtzYy0zdE4xbEl2Ymg3TUtqbXpNT2tCTnJGN0piQkhtU2J2VmdVWDF6cmVSRDJIN1VLOGtkcTBKeE9IdnZsWkRqa3JPbkhOZWpha0ZBc0VOVm9DNThVT3ZUWUtPY3BGa0dvYlkzdEZTYkdOM0YwYU1NMDJ3REEzQQ?oc=5",
-        "source": "washingtonpost.com",
-        "timestamp": 1788715067
+        "source": "The Washington Post",
+        "timestamp": 1788717600
+      },
+      {
+        "title": "California Investigates OpenAI Over AI Hacking Incident - chosun.com",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMkdMZ2kwX3JmMDN1aGZndy1Ncm9lOGpsS3VWUTFGOFJ2N0pkOVlFUmVFdWxrTzNSb0ZnTnhleVAtWjNHN29NRXJPV1FWU0hnZTh2X2pLckFsVS0tLVlyVi1RVkRMTEJhbVJfdDlrMDhfejZqbkhlTjdHOGRkei1sMlI2YWE5REs2?oc=5",
+        "source": "chosun.com",
+        "timestamp": 1788717535
+      },
+      {
+        "title": "Bill Gates Says AI Has Outgrown Human Control, Compares It to HAL in '2001: A Space Odyssey' - Northeast Times",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2RzUUllLXdfY0doSHcyQlVzd0N0YS1SSkZpUFZfNVMxaGM4T0p2SThjX1ZWc1dQeXZUSmtJSlpSdDBmX0hjUU1ZTnNfckJFcnZsT1dwU0FaUVZUN0FmRExDQnBISjBfem9HQ24xcC1scFhIUS14eUNiUXp5WGo3dWljaXJvbV9JMjc1Z1dva0lzc1IwZWJfVWlEZm5Gc0hIZGwyeGhTUnBuc0xKQ1FqVGVrLUU0THlXNzZr?oc=5",
+        "source": "Northeast Times",
+        "timestamp": 1788716041
       },
       {
         "title": "The AI cybersecurity war has a new front line star, and a seven-figure price - The Next Web",
@@ -481,22 +505,16 @@
         "timestamp": 1788707722
       },
       {
-        "title": "AI Is Leaving the Screen and Changing the Physical World - inc.com",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd2RKaWQ3aUNsRXRLamFnYXJkdGZWNVRqcEtUY0V5eHZlZUtJTGt3ODhvcEhVeExMN3FONDRKWU9DcndrM2VmZ3pVbk1wUjM0a1ZIWi0xRFJiUThSODUxbFBhODF6eHdRLXloWE9Dc0oxT1o2VTV2aVliN2JTQjltU1QxTFFQbUg2dkZLeUg1ZG54MlNOeDhoVFFUNGRDelM1?oc=5",
-        "source": "inc.com",
-        "timestamp": 1788706969
-      },
-      {
-        "title": "Research acceleration: The view inside OpenAI - OpenAI",
+        "title": "Research acceleration: The view inside OpenAI - openai.com",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PaU1kVmVkamQtbXI0aE5aU2plRHlhT0dsbi1VTDlJTFBsNEZOQUVpdENyWVB3ZTZ6TFFSakp3RGFmbXprVl94QnZVMVR6OUEzY1c1ZG1YdF9naWZEb0ZqbHQ0Y1c2dnljWjhZeDVmbC1TTEdQ?oc=5",
-        "source": "OpenAI",
+        "source": "openai.com",
         "timestamp": 1788706946
       },
       {
-        "title": "Can a $499 AI Toothbrush Finally Make You Forget About Flossing? - wsj.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdXB2cEVuX1FUQTJ4VTBpSERPU3V2NTlHOGR5eUd2d0hlY29OWDB5US1RSHBkVFo3c3cwZURNXzd0WWFZUGdjU0RNelZULUd0V2JkZmRCZnhfVEYwUnp3WjVmdTk5WjdVWHJuQUhYNFVWT05qMmg2TnliU3ZzbEtRRUJ2Y3FNRnJYb0tla3FiTV9zZWQyUzZhNWpQc3p6ZE4wVDV6bnhsNW9HZjJJTnNV?oc=5",
-        "source": "wsj.com",
-        "timestamp": 1788704795
+        "title": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+        "source": "Gates Notes",
+        "timestamp": 1788706577
       },
       {
         "title": "Zafran: “AI is the biggest force multiplier security researchers have ever had” - calcalistech.com",
@@ -509,18 +527,6 @@
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ydUZ1Q3Y0VzBpMkVHaXhHZEt6UDFZSDc0d0s4bFlBYWlVX1dodlpBWnBabXZ4SVhvSGNUN25UU0VwTE4tRGZCenJ6TklxdnBnM2JSMmlSOUF6bnZqVUJldkg0b1k2Zw?oc=5",
         "source": "Cyber Magazine",
         "timestamp": 1788697966
-      },
-      {
-        "title": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-        "source": "Gates Notes",
-        "timestamp": 1788695739
-      },
-      {
-        "title": "Commentary: What we learned about AI last week should terrify all of us - latimes.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbWhwSVNIRGkxYU9kd2hkYVZNb2ZMTFVvUGZLaWJtc2ViYkd2OVdfbFFXR3VNZG80VzIydHRoejVkdU8xNUNldEhKcC0wNlM4UFdVYkNib0MxVXM5Y0RFQS1OTHVselRzQlFrM1l1MExNdThHaHVrQVRDX21ZbjlhNlhwTFFicUxlX0U3LTNHXzRDb0lWYzdXekJhT3RIalozWWhvTk5mM0M0WkN3NTdHSQ?oc=5",
-        "source": "latimes.com",
-        "timestamp": 1788688800
       },
       {
         "title": "How Figma Uses AI Agents for Security - infoq.com",
@@ -536,6 +542,18 @@
       }
     ],
     "business": [
+      {
+        "title": "Canva steps up US public market preparations with IPO-focused hiring push - Capital Brief",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTGUyVEcwQW1VT2FVMW9WVlV2cjdscUI1bTNzSmc5WXVuMVB6Yl9zZ0h3UWN2Z2dqalZYNzBvMDUtSE83VGtOWV9qRWNONGx1ajJHUk9TVlJ2aFF6WDE3Y0swR2NuNExneHBhak5HVnpRdjJFZEtaVzFENFEwSzQxS1MzWklRejFIeS1STmF3dWhoRGd5VWRJOHFnR3RfOW93UGJDX1JsY3FFa3BYN0hDR0VjXzRESG5pSi11dVlIcXBxODFvUXZqaGUyZ0RaMkJzcjJUM0pMTDQxc2dkZUVPRGtB?oc=5",
+        "source": "Capital Brief",
+        "timestamp": 1788721200
+      },
+      {
+        "title": "AI startup founded by two Bangladeshi brothers raises over $30,000 in funding - The Daily Star",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc3VlRDY4dGN6a3F1SldrWWJmMDhqamdxUTVtc0wtNVcxTkktb0lmLXRCSG1wVlJPYmZkY21wQ1A3TzRPeDlEdTJkT2RGSDVGc01vb0xJd0dQQ1VXTVFIc1FwWFJTNDNndklnVkc0T0hpYTFNMUd6MlZFN2FRdWRKMnkwQ1BjbnRjSWRCblFVLWJvOHRqdEt1U190NTJjc1F4d1otcFUxcmxKckpoelZWeDdSa1Z5LXo4T3pEZzJjajZYZURaTUE?oc=5",
+        "source": "The Daily Star",
+        "timestamp": 1788717906
+      },
       {
         "title": "Between August 31 and September 05, 2026, as many as 23 Indian startups from diverse sectors raised over $291 million in funding from investors. These sectors include Cleantech, Healthtech, AI, Fintech, Semiconductors, Foodtech, Spacetech, Aerospace, E - instagram.com",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCTTN3dnBDVkFMRmU3NDJnbHE5R3Y4TWNHUmdOVG9IUE1QX2VWWGFCMlo5ZnFwT1pXME9ndE1TSGJLei1GVGMyVktJY0tGa1FGdnc?oc=5",
@@ -555,16 +573,10 @@
         "timestamp": 1788707356
       },
       {
-        "title": "AI startup founded by two Bangladeshi brothers raises over $30,000 in funding - The Daily Star",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc3VlRDY4dGN6a3F1SldrWWJmMDhqamdxUTVtc0wtNVcxTkktb0lmLXRCSG1wVlJPYmZkY21wQ1A3TzRPeDlEdTJkT2RGSDVGc01vb0xJd0dQQ1VXTVFIc1FwWFJTNDNndklnVkc0T0hpYTFNMUd6MlZFN2FRdWRKMnkwQ1BjbnRjSWRCblFVLWJvOHRqdEt1U190NTJjc1F4d1otcFUxcmxKckpoelZWeDdSa1Z5LXo4T3pEZzJjajZYZURaTUE?oc=5",
-        "source": "The Daily Star",
-        "timestamp": 1788701226
-      },
-      {
         "title": "Voyager Capital targets Series A enterprise AI enablers - AsianInvestor",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYUVjZkVFYk1vU0U4bzBkOXAtZEJNejRrZHZqdERMbnU4Yy1rUmNxT1JqUXVPYW5tRXBLNGkzd0NhcXJJYUk5X254eEtEM2pPaV9mSVp6aHhrY09FSVlrWFUta29KaHBIcjBaTHVXdENza1RTX05yUi11dTlSNmtnMnM5LWFFU3FDNWhJSlc2SDZRNkMzUG5rWEZFTXlITUVKSVE?oc=5",
         "source": "AsianInvestor",
-        "timestamp": 1788696268
+        "timestamp": 1788696312
       },
       {
         "title": "Andreessen Horowitz Expands Growth Fund to $8.5 Billion - Vocal",
@@ -579,9 +591,9 @@
         "timestamp": 1788686484
       },
       {
-        "title": "Exclusive | VC Liquidity Is Finally Here: Factorial Funds Hits $1 Billion in Proceeds - wsj.com",
+        "title": "Exclusive | VC Liquidity Is Finally Here: Factorial Funds Hits $1 Billion in Proceeds - WSJ",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWMxU1FMalhvRkRRQVBUbGgzaG9nYTRGZGJXYWJ6VEtQWUU1VmRSZm9zZ0V4aEQ0Snc4Yk9acFZJblhGbmpENmFUQW56cXJuM000MDNQeTJWTmpaMW9IbWJRMzZyRUZPNkNhTm5JUU1obWZOdGtqQVVZNExuZnBLWU96eHJ5aDN3RXRMbkVRLWlMMG9XdElLem05VEpBdjByR05HSW5pOWJqYjYwZ1E5Q2E4c0RsU19TVHlZdw?oc=5",
-        "source": "wsj.com",
+        "source": "WSJ",
         "timestamp": 1788684930
       },
       {
@@ -603,16 +615,10 @@
         "timestamp": 1788677758
       },
       {
-        "title": "HSBC's Frederick Neumann Sees 1997 Asian Crisis Echoes in Today's AI Boom - Startup Fortune",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ01ISk4ycHVwdVpoRmhyVXVSM3pTemJoXy1Iam1HdThnWHpsaTJCQWxJQmUtVXg4enpDT1pwZndfdFA4bFhrYnFoNnFmVWVSam1jUld3VVl2cUxsd2lpR1V2bk5ReEs4YW1Ibkc2MlAtakdUUEtNZjJSYmMzQ3QwMWt4OTNwRS1rQi0tWHB6ZzZDSk9GN0J4cFVTdjE2a2d4?oc=5",
-        "source": "Startup Fortune",
-        "timestamp": 1788676016
-      },
-      {
-        "title": "Mistral Raises €3 Billion with Samsung, Nvidia, and Scaleup Fund - briefia.fr",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSGxsdllCRzh3VzNaRU5jekxIUXVvekEyV1Q1QURrclo1ZW0wQlIyaEdvLVBwY2RNbC1ZNWJzT3FqUTFoSUFlcUlmZmtqTllZRXlLUC11X1pJVUtxdFBscm1qS3ZKTEdTR2dOVTVqdHVyM05UR085dEZKTzNoUEN1Wl91aFc5aGRoQi1FV1BxYWI?oc=5",
-        "source": "briefia.fr",
-        "timestamp": 1788656320
+        "title": "Indonesia AI Market: A Complete 2026 Overview - Digital in Asia",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YUGJLOFpvdi1ES0xpQU1JNzZnbEFYLXh3TjBvZGlwUXg1NGUzZC1CX3YtVWx0WDkxZWRBMGx1RUo3ZFhzSExoV0ZNLWZGMHlkMlJnM0FwaFhKUQ?oc=5",
+        "source": "Digital in Asia",
+        "timestamp": 1788670191
       },
       {
         "title": "This Torrance Startup Just Raised $1B to Mass-Produce Hypersonic Missiles - dot.LA",
@@ -629,25 +635,43 @@
     ],
     "creative": [
       {
-        "title": "Why Video Is the First Frontier Physical AI Must Cross - TechnoSports Media Group",
+        "title": "Why Video Is the First Frontier Physical AI Must Cross - technosports.co.in",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByb1kxQUJvM3pDaWFSNEZIRE9jdUZuVXlkQ0NtT2djcjJROWFzcHo3bG0zOUNObHRuRjE3QzFRazhGMTE0WC0wTENGRDhmTGhBUFVObXhQUTZMeEJFRzF2ZFpXUG9vSE5CV2YtUg?oc=5",
-        "source": "TechnoSports Media Group",
+        "source": "technosports.co.in",
         "timestamp": 1788707224
       },
       {
-        "title": "GPT-6's best partner = ByteDance Seedance - 36 Kr",
+        "title": "GPT-6's best partner = ByteDance Seedance - eu.36kr.com",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3aUE2R0JZa0k5QlZOb2FycnFFOXVPQWFTVG5MTm5pamozWDVadTRfWjBGeXl0MTByOEVRTEJoVko2d2M0RHhhVkQ2cV90RG5aV2Rn?oc=5",
-        "source": "36 Kr",
+        "source": "eu.36kr.com",
         "timestamp": 1788669763
-      },
-      {
-        "title": "That Video on Your Phone Might Be Made-in-China AI - tovima.com",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGpmR2lmeDNKQXVDTm5teDdMZVAyNThSZlNIV2hfRHR4aDFwVTVhXzh1bmR2VmNtMGVybnFCZTI4UVIxRjZTQ1duN1A3cVo2bE5YOE9sOEh0UnVKYnVtWjRiSFdyem5VLTk0dGdZR1ZmMjFqeE5wa0J5eC01S3JIOXRMM0LSAYoBQVVfeXFMT1lkbmc4a1hkcWl0eTFOTzhwc2h0b01sTlYyVGo0TG9oaFFnWlJsNGsxNndVcHBqMDNrVVA0R2JfNHJzWnBUbVd2Z3lEYUVETGQ4VWZvbm56SUZhVE9wOU9sdnQ0bGpZMWZtX19SUmk5WlNXY3BtQVc4azhnS1JsTTRmX2RTcWhhNmJn?oc=5",
-        "source": "tovima.com",
-        "timestamp": 1788659208
       }
     ],
     "hardware": [
+      {
+        "title": "NVIDIA partners with Lancium and makes strategic investment to deploy AI infrastructure across 15+ GW campus pipeline - Energies Media",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LREFuQ1IyR1dzYlYtdE1pRzVaWFNESEZudVFqUk5TRkJ6cTZlNjRpS09ubE9kRWN3YlljcmlWNDZQN2ducEQwMWZwd2RsN2h0RDFKQ0dENzQwak4ycGtuQk13OXliR19zMHdkQV9QbWFNUDBEaVlVeWtB?oc=5",
+        "source": "Energies Media",
+        "timestamp": 1788720118
+      },
+      {
+        "title": "AMD Threadripper Halo Station: 96 Cores, 576GB HBM3E [2026] - shattered.io",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWRE5HQl9TMUpFVkhxQkk2M0RORHVyN3hoYTdYRDIyQ2pyZ0k1SGxkSDFRTjBGbWN3VElPQUZTTUlubU94Wno0S1JFZVk0UjZtZEpac3JkN3FrRVhFZFQtQTQ1cWhwZ00?oc=5",
+        "source": "shattered.io",
+        "timestamp": 1788712581
+      },
+      {
+        "title": "The US paid for a peace deal in Nvidia chips - The Next Web",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMmNXQlU1b2NRY0hzTEZmVUE5aV90MWNDMXRyUE5lbDlkS3Zzbnl2cW9oZmZwbUs0RzJSU0lpT2p4ZHRRNGVTSVpaemdRa25nbk80czJnT25DV3ZvV1ZJUXk5eFBjREJkYzlpREg0TnB4dDJiRW1nY0d0MVJFd2FTV0NQZWdkOS1DUEtxT2RITVBfdw?oc=5",
+        "source": "The Next Web",
+        "timestamp": 1788709594
+      },
+      {
+        "title": "AMD Threadripper Halo Station: 96 Cores, 576GB HBM3E [2026] - tech-insider.org",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kUWVHYUMyeHJUa2haVUo4RTFuMHRVWmFGV0NQQ2R3S19BaGRoN2tyRmtTb2Y0LVJpTF9XRnAwY05Gd3pSSlhOVi04enZCMXMzX2NiRll3SXNsTFh1Q0lIRkFFM3VBVnRkWHlUSw?oc=5",
+        "source": "tech-insider.org",
+        "timestamp": 1788709576
+      },
       {
         "title": "China Is Still Chasing Nvidia’s 3-Year-Old Chip — While Nvidia Has Moved Generations Ahead - 24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYVBCOGxCMUI5dzlueXJGVUJYWkdaMzEyUnVyV25mcFNkLUJocjJnbklWMmpTQTF2VTYwcDlLa0JrNGFpZWNDYnl4VFRqbk0tN1F1NlczY1pTWDJnd3lQeVRBN1A4bDZSX1ViSk1sWWdjS2pVWTEwSi1Ncmw2YW5SMWNaSERHeDJGdV9iTUdaSnZWeTNzNThoZUJXN3JlQ1dTOG81VWRFR0NjQVV4cjJjX2tFYjJDRko0aHF1VFFvV3lNSGlUZXpUdFFyWQ?oc=5",
@@ -659,6 +683,12 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSVZKSmszM2RlZzVCd3NZVzBBN0gxamV4bnh2a083clBSTWkxMDZWOGpmUEdlNlVqUjFraFI5X2dRQmhkUDdTTE5mMEtkcGZ0eEtfbUM0eG4tZzM3R1cxZlRBTExjcTQ4LXpXTTVmbllXR05qVE0xcm5JdVJHUWxhV3ZsZGxkWGZFbjZMMl9ncEs?oc=5",
         "source": "thestreet.com",
         "timestamp": 1788703620
+      },
+      {
+        "title": "Sam Altman’s AI Usage Prediction Is Wild — But These 3 Stocks Could Cash In - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jdFgyQmFMSDNXTFNoRW9hZEJTYVN3cEt1b0I5d24xRUszY0dVNGFPMXNab0RnOWZPa21iOF9zZFhzNWRncDUyeS1veEFGWXZROHh4YmdlOVZ3T0lmVVJlMm1aOHJEQkdKMHVTQV93bVFDaDlBeFMtZWpndVZSYjQ?oc=5",
+        "source": "AOL.com",
+        "timestamp": 1788700870
       },
       {
         "title": "Sam Altman’s AI Usage Prediction Is Wild — But These 3 Stocks Could Cash In - 24/7 Wall St.",
@@ -691,22 +721,10 @@
         "timestamp": 1788683640
       },
       {
-        "title": "CME to launch Nvidia compute futures on Oct 5 amid monopoly concerns - scanx.trade",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV2ZGeUYyVVh2dTc5YVN3MWhKd1Nucm05aW43d1piUmxPaVF2YXV4aE1IVHcxM2VEVmZ6ZVVuZXNsaXhPVERHWGdaOTZRNWZjMnhzbzA5UXJ3YjhoWENCWV9Bd3lZMnMxRFZoakZSVVRjcHc2ZU1uOWJSUGpJZlNWSlB3Y281Rk5uaUhidm95U3dXMlNBTmExb01ER296b1ZrSHdTZ2tpckNWWHpSQ3ZKU1dmb2NobXc?oc=5",
-        "source": "scanx.trade",
-        "timestamp": 1788682005
-      },
-      {
-        "title": "SanDisk vs. Seagate Stock Comparison: Which Storage Stock Is Better for Long-Term Holding, SNDK or STX? - TradingKey",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1pPWW0xam5KNHM4cVFfX2w1OC1hQ1ZHcTFMYWRZT1VqbG9md3hrcF9TVl9hWDZ3R3VTZk43MEowREUyWHNROVNVSnlvUXhSdVVYbHdPM3Vna3lpakVDTjluS2tSVkdpOUM5d1ZGaWE3MFV2RW1uUEtvY3ZjQ1l0WVdUYjJXTWV3UjRlaHp2TXViR2lNQWF1STRtRnNKZkNoY2R1cW90YUVfZWhkWVBlNzdMeC00bTRJUVZfZWhfNA?oc=5",
-        "source": "TradingKey",
-        "timestamp": 1788667479
-      },
-      {
-        "title": "Boosteroid Tops 8M Users, Bets $2.5B on AI Centers [2026] - tech-insider.org",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KRzNMWmtNclVOLUU5cEpiVDEwLWlUZVQzVUVrRTU2U0kwNWlZaFNCU1p2eUp5OUFCck1jZkc3bHRTaExYUmotZk9aSUFzNjJMWmdhbjVLQnAxa3FUd1Q2SS1lZkdlVklvTUNtT2Q1eHVySWdEeTlMTlZEdDE?oc=5",
-        "source": "tech-insider.org",
-        "timestamp": 1788654744
+        "title": "U.S. Deploys GPU Exports as Diplomatic Bargaining Chip - chosun.com",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaksyZ296YnRlMFBNN2VERmtrNWhpU2xqVGY2MndvRDdzRk9ET0R1dy1iMnN4MldTMk9rT0VuOXp3NmdBRDVyeldjZkVvMzd3M3pua1BoLXZDU0gyWGV2QVFHdlB3ekp1b2Vhbm1RNnlEb1RDbm9iUkh4Z185MnFiWXJHNHVwTnJa?oc=5",
+        "source": "chosun.com",
+        "timestamp": 1788673698
       },
       {
         "title": "SpaceX Rents Out Colossus 1 Data Centre To Anthropic After AI Setbacks: Report - Stocktwits",
@@ -715,32 +733,26 @@
         "timestamp": 1788646360
       },
       {
-        "title": "Figure AI Plans Massive Robot Supercomputer - mikekalil.com",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50ME0tWElIZGI5ck5hZHEwM1N0ek1xcElnb0txYmlOYlRLWC1QS01Pa1ZTVzRtU056allmRzN3c04zYTRYX1JyWHRRMGhkVnJXSklDQkxPNGkzMGdnODhrMDRmQ2VCVk1fTFV3QQ?oc=5",
-        "source": "mikekalil.com",
-        "timestamp": 1788645669
-      },
-      {
         "title": "Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Buy After Earnings - The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbkZ2VWc0U3JGWm1aN09Tb2dMTEh4cnY1c0hsUzM2WmlNMHlPTkN6OUxsTkZSLWdaVGhJS0ltRVFVbWwxQU10dTRJMFp0WHdjUTVMUEsyUGxDcnFPblZRdXRjbm0tYjlPTmxUT1MyU3l3UFlweDc1Z25rU1hCUXlnMjRQYV9GdGRMRzVtWmluUVhQT0VOclRrNQ?oc=5",
         "source": "The Motley Fool",
         "timestamp": 1788637500
-      },
-      {
-        "title": "Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Buy After Earnings - The Globe and Mail",
-        "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNRnhXYXUxM0VDVHJ4cUVyam1wbTd2MjgweUVudE16MXo4elc2TTNaVnVLRnFTNzhpb3BJT0tsZWV3UmRmQXFQYzM4Q0ItRElCdmVhcXhrMFFFbkpER3M1QTVVUU1kdFpEdmpYMmNjc3lpTGo0TXFUZ1FGNzd3RGF6X09yQzBhR0RrTlNpam5JZ1lyTXZicFBsVW5rM2UyLTVZN1F3bk1MR2tkOGNhaVQxN0F3ZHlHSDZuaFhjcThIUVd4RWFaOFdFR1VzbUtWSkh0STduRng3QkRIYzJfN3NHd1ozOWZueDBGa1hHY0stclcyMzVlT0R0RWZpc1ZsdG5PY1F3V2NZU25DMkh5dzBJenloSGxkQW5uMDRiSEY3OFd2THhiSEptb25ZVQ?oc=5",
-        "source": "The Globe and Mail",
-        "timestamp": 1788635334
-      },
-      {
-        "title": "The Hidden Debt Behind The AI Boom — Who Is Paying For It?' Lakers Vs Thunder (zbjvzy2s7g) - Mshale",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBad3BUVFV1cUxheHpWS2lRUmVnbHoxLUVESTVDR0NLcGREb1VhSnZtbU1CTF9UNlpneGN5dEFKamc2M2Z0UElvZS1uams1allyXzlPb2FNNTVZbEE?oc=5",
-        "source": "Mshale",
-        "timestamp": 1788633506
       }
     ],
     "community": [],
     "global": [
+      {
+        "title": "AI becomes the new arms race: China warns US against technological dominance - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQWx3MDJEZW1lbnNzNEZibTYydnR5NVNweXBUWlRaa0pxZi1XazJDRHVMcmZ0WkJsVVJELXR6ekFHWHZuNHFIejdXQmszNi10VGw2XzJoWUFoUlhqZm5oUm9Zc1o4ZWF6S3pDOXZGRWZ4dzFXbGdjVmVFOFZDZUpOSEc0a18zRmxpVHo4aHppRTNOUjQ1SmQ0Wjc5cmV3am1LSmRGdHhoeFhSc0luX3ZCZl9Jc1VsVDk5bm15MkhpdmIxU3prRUFMYzk1RFhtNUZpNnNXY04tVUNxMVRrQnBicklYbTlVdEw2YmwwbWNTLUzSAfYBQVVfeXFMTWQ5R0lGRVZtT2kwY1dUNGxtelR6bDZhRGVHMTNWYUZnOHJxZjBlVVE1eWxEOUhmQW9OYnFuS1p5bkM1TEk5QjU2OVdoUDQ5ZFVpZlpGaW5IN2VtU2FWV1BIc2otdTV3MTdPTDN4SlJjaVBKSXpoWEhHZUlJMWZJN1pxV194cXN4RDRBMjBxY2dkeE11Wk1pVU5VeFgzWHhpMFFPb255N2p0dElIR21xbU1QWW02anJtYlVJTGxRUVp5ZXZHWUhscV85QllGcG5UbnBDWkhBOVY5MFlEaUhYNWlIRlk1UjVpa01XaTI0VGZMM25YWS1n?oc=5",
+        "source": "The Times of India",
+        "timestamp": 1788717420
+      },
+      {
+        "title": "Sanders pushes 'death penalty' for crucial US industry that could give advantage to foreign adversaries - Fox News",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb001cUVYRlhLYWNYUlgyMDVESkd3T3BCbzZzYXM3WXZaVVk4V29CVEpnT3pTNEFCa2hiQWZ5Z3JKOW1FY0ZoNmVOaTNUUG5mY000NGhIV0hpMFF1bjBYX0stQWRVSjQ3cV9rSlV2XzJwaHhxTTBBU1VQZUkyc1dvQTFkMm1IdlZYMlQ1TC10a3M2ZE8zRXpIOWZzRUk1QTJkSWc2ei1RaHIwS2NHTWVBa3R0cjVpdEpKR25vbWJ6TlPSAcABQVVfeXFMT29NNXFFWEZYS2FjWFJYMjA1REpHd09wQm82c2FzN1l2WlVZOFdvQlRKZ096UzRBQmtoYkFmeWdySjltRWNGaDZlTmkzVFBuZmNNNDRoSFdIaTBRdW4wWF9LLUFkVUo0N3Ffa0pVdl8ycGh4cU0wQVNVUGVJMnNXb0ExZDJtSHZWWDJUNUwtdGtzNmRPM0V6SDlmc0VJNUEyZElnNnotUWhyMEtjR01lQWt0dHI1aXRKSkdub21iek5T?oc=5",
+        "source": "Fox News",
+        "timestamp": 1788712641
+      },
       {
         "title": "Xue Lan: China’s AI Responsibility and Global Action - Pekingnology",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lV0tTOXplMExmTFZhM0tQS01SVDlNWXRrNGlTUGtNS1VLRUMwQjZtcF9XVDhNcFpad0hmVmlMTXhqYm1oeTFsUHJtdmNwLTN0eUlCeC1JVko3Sk14R2FXZGxRTGZlZnNxd2o5T1NKY3E?oc=5",
@@ -754,15 +766,15 @@
         "timestamp": 1788707356
       },
       {
-        "title": "French-American duck robot’s ‘Chinese brain’ reveals deep integration of global supply chains - Global Times",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1maklHU2haRVpJSW5vaWl1YXREUVUwa3pBQXoyX2N5UnhLNUl1S3JHTWVieXFwVG1LbWtnTmQ5bXFEWGk2Y2JOUVI1Q3F2dzFaU01qRjF4dl9VRzFvOFZyMG9n?oc=5",
-        "source": "Global Times",
-        "timestamp": 1788704820
+        "title": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+        "source": "Gates Notes",
+        "timestamp": 1788706577
       },
       {
-        "title": "How Israeli AI shapes global digital leisure - The Jerusalem Post",
+        "title": "How Israeli AI shapes global digital leisure - jpost.com",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzVtaTJyeXdDbmgwWmwzN1A0UHc1RllVMTBUSnc1MDZiYW5kWEZMTGpUdzE1UEVUdFVWT2xXU3Bkd2N1Y1ZKRng1RlJ3VEVqcFczYlVNRUx2d3RKbTlwSHR0azhmVHhla2RlX09uRXloTWxiM3ZLZWtySVVFWENhZkNyVnFXUQ?oc=5",
-        "source": "The Jerusalem Post",
+        "source": "jpost.com",
         "timestamp": 1788704400
       },
       {
@@ -784,16 +796,16 @@
         "timestamp": 1788696005
       },
       {
-        "title": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
-        "source": "Gates Notes",
-        "timestamp": 1788695739
-      },
-      {
         "title": "China will never allow any country to achieve AI dominance: Victor Gao - South China Morning Post",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaWk0TDlOZmVMdjBpajYtT3JmUUNKQ2FXNXNVVVhzVDN1VGFRd1FvYjdzd3F3ZjR5VGVVcUtRLVRkLWsxaXVMRG1MSms0WW5fTTVFZ0hRV2dCUHQxd3U4QW52b3lyNjNYbFJkTG80Unl6T1BkRHI4eDFYQWQtNmQzdnAyRVZSNS15dUFheFlPVXBOcnRzU05QNXU4am5UNnZzcHJRdnpaNjZsYWJvWjFlOXExSkhtd3pNTjBXZklpR0J4VGpIMndN0gHHAUFVX3lxTFBOSXBDb25QOEs4dDVzWGxROElMTUxGRkVpMjBzc1ZFUG1xYThwOWx6M3c3TmFtSXR1U2k4czcxcjBvOVkwdHljZVNUYmVwVkJlajVfVEpnS3dEYjVpbkdkLW0ybS10VG5XUy1HWEVVYU1LZmlPZ09vZlUwanhuSUktMDdNQWlfZHZXOTBneEhSQmVUaS1KekxQdXUyQmxzSDBFX1VIRDFRM2ZJZTNfYnV1eVdVdDNrOU1JWnZYT2J4Z0RSclBOejQ?oc=5",
         "source": "South China Morning Post",
         "timestamp": 1788692409
+      },
+      {
+        "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips - The New York Times",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5",
+        "source": "The New York Times",
+        "timestamp": 1788691511
       },
       {
         "title": "The AI Race Between Washington And Beijing Continues. U.S. Lawmakers Are Scrutinizing The Use Of Chinese Models - International Business Times",
@@ -808,36 +820,120 @@
         "timestamp": 1788689744
       },
       {
-        "title": "Chinese University Cuts Arts Majors, Citing an AI-Driven Future - Sixth Tone",
+        "title": "Chinese University Cuts Arts Majors, Citing an AI-Driven Future - sixthtone.com",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RbVFpNkpSeWUySTh0ZTU0ai13SU9ybkhnanNPbkVudjhZaDhIOXRIYnRDYTNaVXZlTno5ckZ6ZFlZempiZE1zQXFyQV94R00?oc=5",
-        "source": "Sixth Tone",
+        "source": "sixthtone.com",
         "timestamp": 1788689015
-      },
-      {
-        "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGJVMENwVzZKeENMYzdyR0hpejg2azdLMUVKSW5lRXl5N1BiN1otTU80Sk1YLW9sUXlpOEljb3pBR3FkU3QyUGRSa214em9vcVhwRnJKWWtCa2ZLZEFwd3dRRWxSZUJIZi0yakhRQ0N1VngySkplLWxZb19iMXVKeg?oc=5",
-        "source": "The New York Times",
-        "timestamp": 1788685258
       },
       {
         "title": "Revise Chinese military university’s AI course to ‘educate for war’: researchers - South China Morning Post",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX3pPY1dSQndRLWRMVmlsM0F5bEowRzczRjBaTnZET1J3aFZoWFg2YUVCWlhsXzNwV2dHdjhfMDZ5R2tpNGR4VGpiMDJwQ1N2cklaaG01N205VlBiWW5KZXp5QWdpT0VmSmpvYlJHZXh3Z3Z6dUhVdXVBYUg4ZzNoamdva1d6Z0RTNWU4c0RrYkRaNjhUbUs2R1pKQUpoYXB3c0JoX2ZEaDMwVEpwWGdHNEgxOFZjQnF5T0RB0gG7AUFVX3lxTE9LQ0JRNkxWUzJKYzZKLWdPdXplWGVuSmItTmhhcjN4UjMxNm1FQU5CN2tGcVc0VG9aX3F3MzNpa3VyWWlDeV9YSndZOGt3Z2ZmRmdINmhKRUxYOURNazdJeGp3YW5BZ2kxSjE1Z3pKbWNrTDJBSF9WMHNhc0Q0QVZwSVhCQmxxa2p4bmdvY0l6VnZNMXJmX1d3UXNvOFRGZlRfX2dDTnF6WV8zXzhSaXBuZWhaWjhHVmpZVjA?oc=5",
         "source": "South China Morning Post",
         "timestamp": 1788674416
-      },
-      {
-        "title": "ASEAN can still hedge between America and China on AI. It needs to get its act together first - Fortune",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzdJM1ppamRhYWkxQkNLakRmWTJXNVlNYk14bVBXX1lRMnlOSWMxSjdtYkhuRHU3VjBuand6ODhrNFhOVlplUUFpSmh6WXd1ZUE2SVk5MFZwbWg5VGVCXzh4QWRWaEVTODZZQ0xQbXJwdm9acHg1cFpnalk4Z3NzVS1MdW5LbjNLbUlobUNJSGwwdkZaMVVab0NNaFRwSlgyaDM3ZW54OGZna0cyN2gwN2E3MG5nd0hwTlhXb0JsSjNDdw?oc=5",
-        "source": "Fortune",
-        "timestamp": 1788652800
       }
     ],
     "all": [
       {
-        "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+        "title": "GPT-6 Astra: A new generation of intelligence - openai.com",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
-        "source": "OpenAI",
-        "timestamp": 1788716359
+        "source": "openai.com",
+        "timestamp": 1788723112
+      },
+      {
+        "title": "OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the consequences' - Business Insider",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcE5ZbFRhcWxwSG1FMUN1VnFPalBuTkRBOUVfdWxiSl96eHlXb2ExY28tWW0wbXk2Vk8zb2toM1ZQNk9qbG8zbmZwdlNnWFpTcWFFLVpPVGFvOUlBQ2RNMnhBTnczVWpMTkx3STlNcXJsSGczcTlTOHdDV3hiLUIwVEl4NzNYT0d2SUtIWkxFbHE2RHpEUGVXWThSaUVmUjJianp1QW9Yc2ZEem1PMHJhb2Nn?oc=5",
+        "source": "Business Insider",
+        "timestamp": 1788722772
+      },
+      {
+        "title": "The Amazon Service Bezos Nicknamed “Artificial Artificial Intelligence” is Closing for Good - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUhfSF9WS1I1RHpXb1I0OVZPOFlYVEt0TFpLUWVhSlN0c3c3UGxNUDdlaWdGSzRvTzNPOUx3ekFxTlo5YUc5TkdDbF9kbWpwbWZmZ1d4VUlJR3FLQmhVUUV6STBlSjBDbnBIZnpOTm5POUh3UXFmc0Y5TWE1RGVPNV9MaGhDQmZwcGhPQm9Wc2F2Z0liV0Z3QlF4ZzFkckxzSWlFOElaREhqbDZh?oc=5",
+        "source": "Yahoo Finance",
+        "timestamp": 1788722479
+      },
+      {
+        "title": "Arista Networks vs. IBM: Comparing Quarterly Revenue Trends Between These Artificial Intelligence Giants - The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaDUwZGZ6SC1LbzRjMW94OXBrLUdqNGdnWUxMRTVnN1kwZVFEVzJiTjZsZXVHUmZ1VV9oOUJmcWt2ejZYSVhsb1pYY2EyclI1NkY2VDktSWNKNHU1QTR3WFdta2lhWkNkNmI1ZWxwRXV3R0pIT3Z6YlVGMjBzaDBxZWg5bjdHbUJiZ2lXcTBIeHVtQ2V1Qmk5cXQxNWp4OVVrSTVhWkcxTDljYXEwNW5UTjV3Sk5JWl9Lajdzb1ZwVjNlRWZTODFrMXB4ekNkdlJyT0I4MkJvWEFTRG80Vk56Q2E3MmlZUQ?oc=5",
+        "source": "The Motley Fool",
+        "timestamp": 1788722454
+      },
+      {
+        "title": "Canva steps up US public market preparations with IPO-focused hiring push - Capital Brief",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTGUyVEcwQW1VT2FVMW9WVlV2cjdscUI1bTNzSmc5WXVuMVB6Yl9zZ0h3UWN2Z2dqalZYNzBvMDUtSE83VGtOWV9qRWNONGx1ajJHUk9TVlJ2aFF6WDE3Y0swR2NuNExneHBhak5HVnpRdjJFZEtaVzFENFEwSzQxS1MzWklRejFIeS1STmF3dWhoRGd5VWRJOHFnR3RfOW93UGJDX1JsY3FFa3BYN0hDR0VjXzRESG5pSi11dVlIcXBxODFvUXZqaGUyZ0RaMkJzcjJUM0pMTDQxc2dkZUVPRGtB?oc=5",
+        "source": "Capital Brief",
+        "timestamp": 1788721200
+      },
+      {
+        "title": "UH launches free ‘AI for Hawaiʻi’ course for everyone - University of Hawaii System",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52T3RaQllBVkNLMzUzZ2RiU3VrZVI4U2VoVTdWWFdxeUN5X25xa2Jfc0praURvNkpGSTdGb05obDdyWURIY2VwR1NKdTF0RVFLeXV0TV9fYl9ndlNGdnY2ZFQ1LUpsUTkyb2c?oc=5",
+        "source": "University of Hawaii System",
+        "timestamp": 1788720302
+      },
+      {
+        "title": "NVIDIA partners with Lancium and makes strategic investment to deploy AI infrastructure across 15+ GW campus pipeline - Energies Media",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LREFuQ1IyR1dzYlYtdE1pRzVaWFNESEZudVFqUk5TRkJ6cTZlNjRpS09ubE9kRWN3YlljcmlWNDZQN2ducEQwMWZwd2RsN2h0RDFKQ0dENzQwak4ycGtuQk13OXliR19zMHdkQV9QbWFNUDBEaVlVeWtB?oc=5",
+        "source": "Energies Media",
+        "timestamp": 1788720118
+      },
+      {
+        "title": "Proposed architecture for inferencing sparse MOE models increasing Active parameters using layered + linear decay. Succinct reasoning without any model training or fine tune. [p]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1w94dtn/proposed_architecture_for_inferencing_sparse_moe/",
+        "source": "r/MachineLearning",
+        "timestamp": 1788720094
+      },
+      {
+        "title": "Commentary: What we learned about AI last week should terrify all of us - latimes.com",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbWhwSVNIRGkxYU9kd2hkYVZNb2ZMTFVvUGZLaWJtc2ViYkd2OVdfbFFXR3VNZG80VzIydHRoejVkdU8xNUNldEhKcC0wNlM4UFdVYkNib0MxVXM5Y0RFQS1OTHVselRzQlFrM1l1MExNdThHaHVrQVRDX21ZbjlhNlhwTFFicUxlX0U3LTNHXzRDb0lWYzdXekJhT3RIalozWWhvTk5mM0M0WkN3NTdHSQ?oc=5",
+        "source": "latimes.com",
+        "timestamp": 1788719100
+      },
+      {
+        "title": "AI startup founded by two Bangladeshi brothers raises over $30,000 in funding - The Daily Star",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc3VlRDY4dGN6a3F1SldrWWJmMDhqamdxUTVtc0wtNVcxTkktb0lmLXRCSG1wVlJPYmZkY21wQ1A3TzRPeDlEdTJkT2RGSDVGc01vb0xJd0dQQ1VXTVFIc1FwWFJTNDNndklnVkc0T0hpYTFNMUd6MlZFN2FRdWRKMnkwQ1BjbnRjSWRCblFVLWJvOHRqdEt1U190NTJjc1F4d1otcFUxcmxKckpoelZWeDdSa1Z5LXo4T3pEZzJjajZYZURaTUE?oc=5",
+        "source": "The Daily Star",
+        "timestamp": 1788717906
+      },
+      {
+        "title": "Opinion | AI doomers can’t have it both ways - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkNjNjNKdjdwQWhXNS1Xb25IcVpKcWQ3ZXprQ1FpY0lzaTFTWl9ka1FDYmtzYy0zdE4xbEl2Ymg3TUtqbXpNT2tCTnJGN0piQkhtU2J2VmdVWDF6cmVSRDJIN1VLOGtkcTBKeE9IdnZsWkRqa3JPbkhOZWpha0ZBc0VOVm9DNThVT3ZUWUtPY3BGa0dvYlkzdEZTYkdOM0YwYU1NMDJ3REEzQQ?oc=5",
+        "source": "The Washington Post",
+        "timestamp": 1788717600
+      },
+      {
+        "title": "California Investigates OpenAI Over AI Hacking Incident - chosun.com",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMkdMZ2kwX3JmMDN1aGZndy1Ncm9lOGpsS3VWUTFGOFJ2N0pkOVlFUmVFdWxrTzNSb0ZnTnhleVAtWjNHN29NRXJPV1FWU0hnZTh2X2pLckFsVS0tLVlyVi1RVkRMTEJhbVJfdDlrMDhfejZqbkhlTjdHOGRkei1sMlI2YWE5REs2?oc=5",
+        "source": "chosun.com",
+        "timestamp": 1788717535
+      },
+      {
+        "title": "AI becomes the new arms race: China warns US against technological dominance - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQWx3MDJEZW1lbnNzNEZibTYydnR5NVNweXBUWlRaa0pxZi1XazJDRHVMcmZ0WkJsVVJELXR6ekFHWHZuNHFIejdXQmszNi10VGw2XzJoWUFoUlhqZm5oUm9Zc1o4ZWF6S3pDOXZGRWZ4dzFXbGdjVmVFOFZDZUpOSEc0a18zRmxpVHo4aHppRTNOUjQ1SmQ0Wjc5cmV3am1LSmRGdHhoeFhSc0luX3ZCZl9Jc1VsVDk5bm15MkhpdmIxU3prRUFMYzk1RFhtNUZpNnNXY04tVUNxMVRrQnBicklYbTlVdEw2YmwwbWNTLUzSAfYBQVVfeXFMTWQ5R0lGRVZtT2kwY1dUNGxtelR6bDZhRGVHMTNWYUZnOHJxZjBlVVE1eWxEOUhmQW9OYnFuS1p5bkM1TEk5QjU2OVdoUDQ5ZFVpZlpGaW5IN2VtU2FWV1BIc2otdTV3MTdPTDN4SlJjaVBKSXpoWEhHZUlJMWZJN1pxV194cXN4RDRBMjBxY2dkeE11Wk1pVU5VeFgzWHhpMFFPb255N2p0dElIR21xbU1QWW02anJtYlVJTGxRUVp5ZXZHWUhscV85QllGcG5UbnBDWkhBOVY5MFlEaUhYNWlIRlk1UjVpa01XaTI0VGZMM25YWS1n?oc=5",
+        "source": "The Times of India",
+        "timestamp": 1788717420
+      },
+      {
+        "title": "Point density, not architecture, was the bottleneck for a 5-class radar-only object [P]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1w934ew/point_density_not_architecture_was_the_bottleneck/",
+        "source": "r/MachineLearning",
+        "timestamp": 1788717331
+      },
+      {
+        "title": "M&T Bank expands enterprise AI after years of technology overhaul - AI News",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmJFNXZ4TjNEbXZJUFMxOThxTEM2NkhmX2xicHpnXzRNOTY5TkFJdy04eV9ucTlWYzdObnpRdlF5QW44bkZYRUpmT1BKSl9maS1xR19HLTVMS0wtWDhlbHRqNkw0VWlmV3hTZTlkOUY3Um1JS0NSUkNPWFh4QmRqNkNMX3hfcTlFRFhkdjBCb3c?oc=5",
+        "source": "AI News",
+        "timestamp": 1788716489
+      },
+      {
+        "title": "Bill Gates Says AI Has Outgrown Human Control, Compares It to HAL in '2001: A Space Odyssey' - Northeast Times",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2RzUUllLXdfY0doSHcyQlVzd0N0YS1SSkZpUFZfNVMxaGM4T0p2SThjX1ZWc1dQeXZUSmtJSlpSdDBmX0hjUU1ZTnNfckJFcnZsT1dwU0FaUVZUN0FmRExDQnBISjBfem9HQ24xcC1scFhIUS14eUNiUXp5WGo3dWljaXJvbV9JMjc1Z1dva0lzc1IwZWJfVWlEZm5Gc0hIZGwyeGhTUnBuc0xKQ1FqVGVrLUU0THlXNzZr?oc=5",
+        "source": "Northeast Times",
+        "timestamp": 1788716041
+      },
+      {
+        "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/",
+        "source": "r/MachineLearning",
+        "timestamp": 1788715779
       },
       {
         "title": "Between August 31 and September 05, 2026, as many as 23 Indian startups from diverse sectors raised over $291 million in funding from investors. These sectors include Cleantech, Healthtech, AI, Fintech, Semiconductors, Foodtech, Spacetech, Aerospace, E - instagram.com",
@@ -846,28 +942,16 @@
         "timestamp": 1788715622
       },
       {
-        "title": "Is Meta (META) Trading Cheap AI Access for Long-Term Data Dominance With Muse Spark 1.3? - simplywall.st",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeGFZS3pPelNkZDNjeThlT2JSSTVWMFB3MWpCSFdQenFqX2NLSW53TXZZYnNNbFRKajhkbktkemVhUWg2LWxXZHF2UXgwNlQ5Q3BDQUZ5RDVMUS16cUxVYUU5QWJYWFczQXZlVDRORFFueFNJYnNrV2l6cWRweFBPUE9FYkpWa04wLW1vbUx1bTJUekx2NjZ0aklheUloU3J5dXRWb1F1YTMyb3dQMWhvcjJ0M1VoYUJRaWhWY0FxMnNUejY3ekdsVU1B0gHPAUFVX3lxTE54a0dabmdIUGd1X0dtV3MwOE1ESGNJMnZJWXppN2xlQWpPbVVPYVotbWN2VWM1aEtobEtCaW1xZmNadGxxZHNrMjlEaVJOWGFwV0xqV1UtX3dUV0ZDeXhIVG53bU9PWkZSVEtvU2lBMVRBZUFzOGFzOFhRdDYtcWpRWWJUSzRIR2RNYXpYOXVTQnM2dWVTNXpEeXZFQ1o4R0llWi1ZZU9KcnBNUVdwc1ZXa25GRTd2NF9BUjNPYjhtNVloVlBmV1ZPZmloX0RZbw?oc=5",
-        "source": "simplywall.st",
-        "timestamp": 1788715436
-      },
-      {
-        "title": "Opinion | AI doomers can’t have it both ways - washingtonpost.com",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkNjNjNKdjdwQWhXNS1Xb25IcVpKcWQ3ZXprQ1FpY0lzaTFTWl9ka1FDYmtzYy0zdE4xbEl2Ymg3TUtqbXpNT2tCTnJGN0piQkhtU2J2VmdVWDF6cmVSRDJIN1VLOGtkcTBKeE9IdnZsWkRqa3JPbkhOZWpha0ZBc0VOVm9DNThVT3ZUWUtPY3BGa0dvYlkzdEZTYkdOM0YwYU1NMDJ3REEzQQ?oc=5",
-        "source": "washingtonpost.com",
-        "timestamp": 1788715067
-      },
-      {
         "title": "Science Cafe returns Sept. 15 to discuss AI impacts - Concord Monitor",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOS1YRWt6bGNrSjJyWlFScGt1aGljS2oyOVRaa1ZFTHlmMnNNa0xRR1Y1VFFWOHlGdDMzVWgwMDNIUHp0dnFfUi1KM1k2czFvZTlqM1ZiQy16WTM3WVIyUXM2SUQ2MHdyNkphdDlLc1JhMWNERXBGVGhaVzJSM05KSnNR?oc=5",
         "source": "Concord Monitor",
         "timestamp": 1788715032
       },
       {
-        "title": "Artificial Intelligence Stocks To Keep An Eye On - September 6th - marketbeat.com",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdV9SdjdsVjhkX085aDE2Zy04OERxMmwwbTl3V2o3aTF0WGtpc3JBM1cySmlmX2taYnFJMWRDOW1TUWtTV0VOaVlldF91OGNKeWN5WktiTHRTTVBULVJURFFJZ0QzdVVUcXM0MVE1LW5nQ2RmOWtOUU1YcDZPMzFzNURHYzl5RzRLUVZDRXhtSGhGdjMzdWlfYjJrTDR3cTdrMGJrRWJ5bjl3Q09NN01uOVFIUl94MXFEZUFqY0x3?oc=5",
-        "source": "marketbeat.com",
-        "timestamp": 1788714375
+        "title": "At Telluride Film Festival, Bill Gates Compares Lack of Control Over AI to HAL in ‘2001’: ‘You Could Say “Please Shut Down,” and It Would Say, “OK, I Took That Under Advisement, But…”‘ - Variety",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWNmYzJmT053aVBmUzE5Ym1SenowOXpKdGk5WEUzSjlTajM0MW8yaW04ZG5zak16bmNzR2FaVlV0WGYyNGMzdktLRWRNMV9PbjFhT0xHc2xuVllpRk1lWFNnYkFwM0JLdDZ4VU1iY0VTUHVaN1ZYNDNJell2NE12bm1ROXJCSDRSczRJbnZ4QjNGcHZ0ZGVRQU5VcDl4UFE?oc=5",
+        "source": "Variety",
+        "timestamp": 1788714480
       },
       {
         "title": "The AI cybersecurity war has a new front line star, and a seven-figure price - The Next Web",
@@ -876,10 +960,22 @@
         "timestamp": 1788713675
       },
       {
-        "title": "'59% of AI initiatives already delivering tangible business value' - The New Indian Express",
+        "title": "'59% of AI initiatives already delivering tangible business value' - newindianexpress.com",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMTQyd2xRMkxsRjFEdGt2M0J0MF94bVBTb05KekdZbzNoWmp5czM1NTBZRG56TVN4NG1Mb0VTOVQxakJzeE5iWnNvbDRzUkVSSG16dFhRZ1lLYl8zMXdrSk9CeG9MMjZZR2ZQd2p5bnNvd1lDdjhrUGNTbV9GWERvTVhkcmpkTFNYUnZXNHlXUkhfcUxaUkdJX1lISThPeFpTYm5yYldCbncweUk2TWFLTldYaDdqSWdG0gHGAUFVX3lxTFBxaUVpQTBmWGV4RkJuQTRQX1RVcF9KbjNqR21vU1ZfMXYyMjJqVlR5TURxN3pWaGZkNmFxNHR0Nks0aExldGFTbHp2bS00MHhNUmVidFluNk4zRkR5S1VLaC12UHh4RG9yMEc2SDJnclE3d3ZXWThtNW9QeXJRc0YxdExOZnRqczFOMkRoQlNpSWYwWEpRNFlBazNHQVZRVDBUNm5vY1h6Y1FRLWxUeXg1XzRKVU5uYWdtWWdfQ2V1bmNERE1CUQ?oc=5",
-        "source": "The New Indian Express",
+        "source": "newindianexpress.com",
         "timestamp": 1788712942
+      },
+      {
+        "title": "Sanders pushes 'death penalty' for crucial US industry that could give advantage to foreign adversaries - Fox News",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb001cUVYRlhLYWNYUlgyMDVESkd3T3BCbzZzYXM3WXZaVVk4V29CVEpnT3pTNEFCa2hiQWZ5Z3JKOW1FY0ZoNmVOaTNUUG5mY000NGhIV0hpMFF1bjBYX0stQWRVSjQ3cV9rSlV2XzJwaHhxTTBBU1VQZUkyc1dvQTFkMm1IdlZYMlQ1TC10a3M2ZE8zRXpIOWZzRUk1QTJkSWc2ei1RaHIwS2NHTWVBa3R0cjVpdEpKR25vbWJ6TlPSAcABQVVfeXFMT29NNXFFWEZYS2FjWFJYMjA1REpHd09wQm82c2FzN1l2WlVZOFdvQlRKZ096UzRBQmtoYkFmeWdySjltRWNGaDZlTmkzVFBuZmNNNDRoSFdIaTBRdW4wWF9LLUFkVUo0N3Ffa0pVdl8ycGh4cU0wQVNVUGVJMnNXb0ExZDJtSHZWWDJUNUwtdGtzNmRPM0V6SDlmc0VJNUEyZElnNnotUWhyMEtjR01lQWt0dHI1aXRKSkdub21iek5T?oc=5",
+        "source": "Fox News",
+        "timestamp": 1788712641
+      },
+      {
+        "title": "AMD Threadripper Halo Station: 96 Cores, 576GB HBM3E [2026] - shattered.io",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWRE5HQl9TMUpFVkhxQkk2M0RORHVyN3hoYTdYRDIyQ2pyZ0k1SGxkSDFRTjBGbWN3VElPQUZTTUlubU94Wno0S1JFZVk0UjZtZEpac3JkN3FrRVhFZFQtQTQ1cWhwZ00?oc=5",
+        "source": "shattered.io",
+        "timestamp": 1788712581
       },
       {
         "title": "I built a local-first hybrid router for AI Agent Skills (sub-20ms, zero tokens, runs on CPU) [P]",
@@ -898,12 +994,6 @@
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNkxPdTFJWTVmT0VZUFpuZmk2bUE3b2FyODhhdFYzWHBOc2FObUdiUWpSNW9zc3FEVTNYSWFkZ1JoU2lXT0tFNHBtNGpFYWltWXFpaEtMcnNuNGN6a3ZnSUZCVW51QU42aFhxQ2pFSWJRR0hVbXhqUW43eHRNbzVZZWJn?oc=5",
         "source": "Pasquale Pillitteri",
         "timestamp": 1788710919
-      },
-      {
-        "title": "These teachers fight AI cheating with classes that force students to show they are learning - washingtonpost.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOF9aeWFIYkNCeVJSQUpVaWtDalFWaHBfUFBRZ0dFRW9OOHprZHFmbjJMaWpEZEdISC1zQlQyNVBuR3hxRmRIeldFa3pQeHlBZkEtSDhmcEZIRFJ3WW1CT1RhODhJTEJXV0ZEMWd4OVZrVF81LWZRMXZtX3g1ejgxbFpUQ1FDMkJwWDNmWUZ3YjcyMEhrblFpNFRUbDBmckVKejNIbHB4c1g5dFotQ0tn?oc=5",
-        "source": "washingtonpost.com",
-        "timestamp": 1788710400
       },
       {
         "title": "OpenAI attempted to hide rogue AI agent behavior - Taipei Times",
@@ -930,6 +1020,18 @@
         "timestamp": 1788709699
       },
       {
+        "title": "The US paid for a peace deal in Nvidia chips - The Next Web",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMmNXQlU1b2NRY0hzTEZmVUE5aV90MWNDMXRyUE5lbDlkS3Zzbnl2cW9oZmZwbUs0RzJSU0lpT2p4ZHRRNGVTSVpaemdRa25nbk80czJnT25DV3ZvV1ZJUXk5eFBjREJkYzlpREg0TnB4dDJiRW1nY0d0MVJFd2FTV0NQZWdkOS1DUEtxT2RITVBfdw?oc=5",
+        "source": "The Next Web",
+        "timestamp": 1788709594
+      },
+      {
+        "title": "AMD Threadripper Halo Station: 96 Cores, 576GB HBM3E [2026] - tech-insider.org",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kUWVHYUMyeHJUa2haVUo4RTFuMHRVWmFGV0NQQ2R3S19BaGRoN2tyRmtTb2Y0LVJpTF9XRnAwY05Gd3pSSlhOVi04enZCMXMzX2NiRll3SXNsTFh1Q0lIRkFFM3VBVnRkWHlUSw?oc=5",
+        "source": "tech-insider.org",
+        "timestamp": 1788709576
+      },
+      {
         "title": "Israeli tech's exit boom is quietly funding local charities - calcalistech.com",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjZU5PU2JWdE1MZXRiT2x2bEFpZjBQUkFsSlM1aXowbldfOEIybjEzSDNIYWtuWUx0Y0piWGZZQS1IUXM3YWVWaVpmWjJLek50LW41d0RnTy1JUkRfVWpzWUtOcUoyQlYy?oc=5",
         "source": "calcalistech.com",
@@ -948,21 +1050,15 @@
         "timestamp": 1788707356
       },
       {
-        "title": "Why Video Is the First Frontier Physical AI Must Cross - TechnoSports Media Group",
+        "title": "Why Video Is the First Frontier Physical AI Must Cross - technosports.co.in",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByb1kxQUJvM3pDaWFSNEZIRE9jdUZuVXlkQ0NtT2djcjJROWFzcHo3bG0zOUNObHRuRjE3QzFRazhGMTE0WC0wTENGRDhmTGhBUFVObXhQUTZMeEJFRzF2ZFpXUG9vSE5CV2YtUg?oc=5",
-        "source": "TechnoSports Media Group",
+        "source": "technosports.co.in",
         "timestamp": 1788707224
       },
       {
-        "title": "AI Is Leaving the Screen and Changing the Physical World - inc.com",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd2RKaWQ3aUNsRXRLamFnYXJkdGZWNVRqcEtUY0V5eHZlZUtJTGt3ODhvcEhVeExMN3FONDRKWU9DcndrM2VmZ3pVbk1wUjM0a1ZIWi0xRFJiUThSODUxbFBhODF6eHdRLXloWE9Dc0oxT1o2VTV2aVliN2JTQjltU1QxTFFQbUg2dkZLeUg1ZG54MlNOeDhoVFFUNGRDelM1?oc=5",
-        "source": "inc.com",
-        "timestamp": 1788706969
-      },
-      {
-        "title": "Research acceleration: The view inside OpenAI - OpenAI",
+        "title": "Research acceleration: The view inside OpenAI - openai.com",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PaU1kVmVkamQtbXI0aE5aU2plRHlhT0dsbi1VTDlJTFBsNEZOQUVpdENyWVB3ZTZ6TFFSakp3RGFmbXprVl94QnZVMVR6OUEzY1c1ZG1YdF9naWZEb0ZqbHQ0Y1c2dnljWjhZeDVmbC1TTEdQ?oc=5",
-        "source": "OpenAI",
+        "source": "openai.com",
         "timestamp": 1788706946
       },
       {
@@ -990,21 +1086,9 @@
         "timestamp": 1788705300
       },
       {
-        "title": "French-American duck robot’s ‘Chinese brain’ reveals deep integration of global supply chains - Global Times",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1maklHU2haRVpJSW5vaWl1YXREUVUwa3pBQXoyX2N5UnhLNUl1S3JHTWVieXFwVG1LbWtnTmQ5bXFEWGk2Y2JOUVI1Q3F2dzFaU01qRjF4dl9VRzFvOFZyMG9n?oc=5",
-        "source": "Global Times",
-        "timestamp": 1788704820
-      },
-      {
-        "title": "Can a $499 AI Toothbrush Finally Make You Forget About Flossing? - wsj.com",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdXB2cEVuX1FUQTJ4VTBpSERPU3V2NTlHOGR5eUd2d0hlY29OWDB5US1RSHBkVFo3c3cwZURNXzd0WWFZUGdjU0RNelZULUd0V2JkZmRCZnhfVEYwUnp3WjVmdTk5WjdVWHJuQUhYNFVWT05qMmg2TnliU3ZzbEtRRUJ2Y3FNRnJYb0tla3FiTV9zZWQyUzZhNWpQc3p6ZE4wVDV6bnhsNW9HZjJJTnNV?oc=5",
-        "source": "wsj.com",
-        "timestamp": 1788704795
-      },
-      {
-        "title": "How Israeli AI shapes global digital leisure - The Jerusalem Post",
+        "title": "How Israeli AI shapes global digital leisure - jpost.com",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTzVtaTJyeXdDbmgwWmwzN1A0UHc1RllVMTBUSnc1MDZiYW5kWEZMTGpUdzE1UEVUdFVWT2xXU3Bkd2N1Y1ZKRng1RlJ3VEVqcFczYlVNRUx2d3RKbTlwSHR0azhmVHhla2RlX09uRXloTWxiM3ZLZWtySVVFWENhZkNyVnFXUQ?oc=5",
-        "source": "The Jerusalem Post",
+        "source": "jpost.com",
         "timestamp": 1788704400
       },
       {
@@ -1020,22 +1104,16 @@
         "timestamp": 1788703620
       },
       {
+        "title": "A Caution About Artificial Intelligence - The ClassicCars.com Journal",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVk1rZnhVQ1piYjJwanZBc0lrQzJqaTdpNXdBZXoxdEtyXzEzaWtvYUVyeXVwTExZNWwzSWxtZDZISjdOTU94OFFocVM3RnJzQkRVV0dHblNLUUtvZjk4YjBueHpycWZOdWJLNGJ0UkNLLXlrVWxFZmZCV0MwdEtYamE2Tnpab3RfNnBV?oc=5",
+        "source": "The ClassicCars.com Journal",
+        "timestamp": 1788703464
+      },
+      {
         "title": "Lunarcrush Promo Code \"ROHIT\" - Get 15 Discount On All Products - Steady",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUUyWFdEVm1WaGtGRms3TURPN2EzcUhDOUZ5dmhtQUdwQ2NsbW1EWVpHaTR4SUF0ZktnbDhfMnJRUksxRG9DcWczNGlfNkdaUkpyVGl6bXl3MTA4SVlEV0Zhc1VnYk1mMU1Jb21pclBPTkU2b0Y4V21vLWI1NTVnQU1naWpKNjdHSmM3NWc1TVRIMmlhREozdE53VHAzS05VVnV1LQ?oc=5",
         "source": "Steady",
         "timestamp": 1788703302
-      },
-      {
-        "title": "A Caution About Artificial Intelligence - The ClassicCars.com Journal",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVk1rZnhVQ1piYjJwanZBc0lrQzJqaTdpNXdBZXoxdEtyXzEzaWtvYUVyeXVwTExZNWwzSWxtZDZISjdOTU94OFFocVM3RnJzQkRVV0dHblNLUUtvZjk4YjBueHpycWZOdWJLNGJ0UkNLLXlrVWxFZmZCV0MwdEtYamE2Tnpab3RfNnBV?oc=5",
-        "source": "The ClassicCars.com Journal",
-        "timestamp": 1788703201
-      },
-      {
-        "title": "AI anxiety comes to Telluride, with Bill Gates sounding the alarm - latimes.com",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHQ0WnlPSWN4MzRodG5PWHA1VlB0X28xMXhkSzRIaFpmcW56TUZZcVZnakNrbF81QV85MkwtNklsdGtxQVVkOU1pRFlITkRyNi1jYWQtZ0NubmJzUEtLMlJDVkJJX1ZTT045WEZYaFlBemc1WTJNdnRpZ2tzV0RSVG9EMkNBMVhPZTE2dTlHM2djZUFMaXN1SjVjUkRrdWZiWkt6bmkwSkRILUFmazhONnRBdkMxUzFXZGEzNVFpYw?oc=5",
-        "source": "latimes.com",
-        "timestamp": 1788703200
       },
       {
         "title": "Zafran: “AI is the biggest force multiplier security researchers have ever had” - calcalistech.com",
@@ -1050,28 +1128,22 @@
         "timestamp": 1788702300
       },
       {
-        "title": "AI research center coming to Cal State San Bernardino - San Bernardino Sun",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYV9qaC05bkZMODBOV2MyMjlSQTFFQldwcUhzNGpfcEctY1RNY2xiS3RVSWJyY1FtM2dna01NWHRfXzlhLVFEMDlRNndxQ0tGY1kybE1MbWRIdzJ5MXZpNDhfSG9lbzVvekRIU2dBWW5KMkxTM1ZjOEdBU3ZOUklJSlRhd3ZLdlpCS3lQd19GcXU?oc=5",
-        "source": "San Bernardino Sun",
-        "timestamp": 1788701701
+        "title": "Anthropic, OpenAI, Meta and Google All Shipped New AI Models in One Week - Startup Fortune",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS2ZxWVRGaTFpd3Flclo5MlZGVVlZcEw2dzJ4eFZIc3BPR3l4WlhOU1A1N3luMnQxSU9taER4Q2Uxcmp6MElYNW1qaE5XUEpwOEQzQ2xzNWtiQ3ZiSFItQ0REMjBXcFBidnlDZFhEYkpBNDNKTzVXMEFEVHlHaEQ2M0ZKRUp5bHdyQVZYQ1lrb1YwMm13SjNMVmZ4WjZhWFU?oc=5",
+        "source": "Startup Fortune",
+        "timestamp": 1788701052
       },
       {
-        "title": "AI startup founded by two Bangladeshi brothers raises over $30,000 in funding - The Daily Star",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc3VlRDY4dGN6a3F1SldrWWJmMDhqamdxUTVtc0wtNVcxTkktb0lmLXRCSG1wVlJPYmZkY21wQ1A3TzRPeDlEdTJkT2RGSDVGc01vb0xJd0dQQ1VXTVFIc1FwWFJTNDNndklnVkc0T0hpYTFNMUd6MlZFN2FRdWRKMnkwQ1BjbnRjSWRCblFVLWJvOHRqdEt1U190NTJjc1F4d1otcFUxcmxKckpoelZWeDdSa1Z5LXo4T3pEZzJjajZYZURaTUE?oc=5",
-        "source": "The Daily Star",
-        "timestamp": 1788701226
+        "title": "Sam Altman’s AI Usage Prediction Is Wild — But These 3 Stocks Could Cash In - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jdFgyQmFMSDNXTFNoRW9hZEJTYVN3cEt1b0I5d24xRUszY0dVNGFPMXNab0RnOWZPa21iOF9zZFhzNWRncDUyeS1veEFGWXZROHh4YmdlOVZ3T0lmVVJlMm1aOHJEQkdKMHVTQV93bVFDaDlBeFMtZWpndVZSYjQ?oc=5",
+        "source": "AOL.com",
+        "timestamp": 1788700870
       },
       {
         "title": "Sam Altman’s AI Usage Prediction Is Wild — But These 3 Stocks Could Cash In - 24/7 Wall St.",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRVVjSzVSeHl2RHVZY2NaU1owTmJxckFkQlEtb0ZGZkZVMkktV3pRSXE0VHNIaWxLcVFxU2VpZGVFWkNoSFhzcnB4eWZCTFNDclRDRmgxTXhaNS05SGZxYUh0d3NLOFNBTVYwTzNvMkIyZUlsV3pZN253eGdtRHRkdFplVHY0c1FNUjZuVmRvcXJzRVdNVE1MVjNobUlNeGhqLXRBcTktQmNGd0FWcTBRVzROSmFYZkE?oc=5",
         "source": "24/7 Wall St.",
         "timestamp": 1788700860
-      },
-      {
-        "title": "Iowa should treat AI savings as matching funds for mentorship - iowacapitaldispatch.com",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZFpmaWZwM1p6S0RjdjNYVnpVMGc4ckFrM1MtN1R2TEs1d0FaWVNvTUotSVBkUWZFVHJSTkxIeTVTWVVOdzNqeDRxUExqektOalp3Y2tHaHZQUkhabDhBMzdKbVpoM0ttR1hYVUp2VDFxMU43UGF5TkJkUERFQXpLcnFMUjhRNHUyWkVUdW5POVNUV3VCODVKTVNqVHRCb3duVkZYanBUdFA?oc=5",
-        "source": "iowacapitaldispatch.com",
-        "timestamp": 1788700046
       },
       {
         "title": "South Korean Chips Head to Saudi Arabia: From Manufacturing to Computing - ASHARQ AL-AWSAT English",
@@ -1086,22 +1158,16 @@
         "timestamp": 1788699607
       },
       {
-        "title": "Poll: A polarized America unites behind deep concerns about AI - NBC News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTEwWGxpLVluYmxMbHRLTGxmNEFZMW9xV29jc1g1cTRPaFNhRVJoN3ZoMjRVSWk3Q1cxV2pqZ2hQemtaajY3NFVKUXlrTmJESzdzNnZUWlVzOFZRa3RSbDk4U3BMN2NsamNVUzNfTVF0QWtIUENsNlNOUk96NDlha3VCY3hSbG1fV0tzTXBOLVVFczZQSE91MGhEa0kySmE5TktjN0FKbw?oc=5",
-        "source": "NBC News",
-        "timestamp": 1788699600
+        "title": "A survey of data augmentation methods in multimodal frameworks - Bioengineer.org",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQekR6SjBFUHcwRlVfdGVMUjlONkdYY19FdlBudG5paldtZFUtel9xMTNiWjc4SE1nOFN1aW84Yi1RY0VmOFZyYmFtaWRxWUFjRmNxMXA3S2FTRkc5bTk0bWllY2xhbTlaal9FcFFOczFnUDJtMW0yS0RNbXhTTHdQY2VrMlVCeVdDWXotbDd4bnQ?oc=5",
+        "source": "Bioengineer.org",
+        "timestamp": 1788699051
       },
       {
         "title": "Google Launches \"Lyria 3.5\" in Gemini... - jordannews.jo",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUo3S045dE1WNDdiY1ZRb09ZZF9xdHJObnpjdFY1WkdPRFQ3ZmgwdDF3S3dNdGhWWGVSajRlaVhILTFZUmZscXQxSm16WjJHck5SMS1sUDY5QXgzaTVVZVAxU0Y1MDRwTDBFRGU5RXdVWjQ2a0ItVmFDNmdHZERQbVpFdWJISUdITVEtR0VWWVNoRmEt?oc=5",
         "source": "jordannews.jo",
         "timestamp": 1788698477
-      },
-      {
-        "title": "A survey of data augmentation methods in multimodal frameworks - bioengineer.org",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQekR6SjBFUHcwRlVfdGVMUjlONkdYY19FdlBudG5paldtZFUtel9xMTNiWjc4SE1nOFN1aW84Yi1RY0VmOFZyYmFtaWRxWUFjRmNxMXA3S2FTRkc5bTk0bWllY2xhbTlaal9FcFFOczFnUDJtMW0yS0RNbXhTTHdQY2VrMlVCeVdDWXotbDd4bnQ?oc=5",
-        "source": "bioengineer.org",
-        "timestamp": 1788698169
       },
       {
         "title": "The Agent Production Gap: When 171% ROI Isn’t Enough to Ship - forkast.news",
@@ -1126,72 +1192,6 @@
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ydUZ1Q3Y0VzBpMkVHaXhHZEt6UDFZSDc0d0s4bFlBYWlVX1dodlpBWnBabXZ4SVhvSGNUN25UU0VwTE4tRGZCenJ6TklxdnBnM2JSMmlSOUF6bnZqVUJldkg0b1k2Zw?oc=5",
         "source": "Cyber Magazine",
         "timestamp": 1788697966
-      },
-      {
-        "title": "Making Enterprise AI Work Beyond the Pilot - BankInfoSecurity",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTExPR0ZwcU1EVnBnWjljNHVqcURKTXdCNFV4OVdlMEx3WXp4WTNnQTBEMTdJdXQyZ2JzSXMwNTZXTW51TFZDWnY5SkNuVWdLekhDYl9IamhXX3ZQMFE2UlRuSEJQdnpWZ3p2VGtwUWxGTjAxeUswUG9BUGgzSXFHMGN6M0YtUQ?oc=5",
-        "source": "BankInfoSecurity",
-        "timestamp": 1788697406
-      },
-      {
-        "title": "Voyager Capital targets Series A enterprise AI enablers - AsianInvestor",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYUVjZkVFYk1vU0U4bzBkOXAtZEJNejRrZHZqdERMbnU4Yy1rUmNxT1JqUXVPYW5tRXBLNGkzd0NhcXJJYUk5X254eEtEM2pPaV9mSVp6aHhrY09FSVlrWFUta29KaHBIcjBaTHVXdENza1RTX05yUi11dTlSNmtnMnM5LWFFU3FDNWhJSlc2SDZRNkMzUG5rWEZFTXlITUVKSVE?oc=5",
-        "source": "AsianInvestor",
-        "timestamp": 1788696268
-      },
-      {
-        "title": "Why China is being urged to study Ukraine’s wartime PR blitz in the AI age - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcVhUcHkxYXlRNnRNbUNTTzUxd291SV9YWWU1UmlYU2NQZklqUVRUZXFrdEhRcHVRMGpabHkzT2lHU2xZLWFYMlFPVWZUSzVBcWUxYkRrc1k2VGtBVm55dmUtel90eWVpbXBjVmstRURHRk8xcVFGcjdnODhGTWY5dG9TZlRMdTVCd3dqOFFBbDZ6aDllU3RPSWpGY1RhT3p1SFF6ZU5aNzRtV2xvaE16elNEbmMyeUxM0gG4AUFVX3lxTE9xWFRweTFheVE2dE1tQ1NPNTF3b3VJX1hZZTVSaVhTY1BmSWpRVFRlcWt0SFFwdVEwalpseTNPaUdTbFktYVgyUU9VZlRLNUFxZTFiRGtzWTZUa0FWbnl2ZS16X3R5ZWltcGNWay1FREdGTzFxUUZyN2c4OEZNZjl0b1NmVEx1NUJ3d2o4UUFsNnpoOWVTdE9JakZjVGFPenVIUXplTlo3NG1XbG9oTXp6U0RuYzJ5TEw?oc=5",
-        "source": "South China Morning Post",
-        "timestamp": 1788696005
-      },
-      {
-        "title": "AI data centers are transforming rural land markets — and fueling a backlash - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc0VSWlFxcndIbkxjaWdlNFVNVktJUExoYV9KdXMwT0o0enczbHRraGNINE8yVlh6cHd5VW9nSmtMQnlvTFJXSzNFVmpYVVpIZmNlcHh3NUlJY1NWRkNwSVA0WXFRU05fZkxmVTRyYTlGN0hyRXg3bWNEWVVYLWh1VUp2YjRMUVZUR0ZIcGpzQXFabEt6dll3N2t2Yk5pMnFKOVhTU1lJbWrSAa4BQVVfeXFMUFNBdi0wVVM5X3ZfSU1ZTEV0MFdyY0tueVdJQ0xTZ20ycE9xdW5scHQ0Uzg5SXVkUTNpLW5UaklfcmdTeUxXbExFdzNfS3VxSXJrWHlvWTNnWnhrRzF5Wk5TQXFDR1pWVnJkRnlkdEloTHdyRUxEbl82Y2hJejVTUVRRNzNJdjVXQ2Jva04zZGVDRVNfU3BhTVFvb056NkZ3VXcxQW5QMGMyWFg1b3ZB?oc=5",
-        "source": "CNBC",
-        "timestamp": 1788696001
-      },
-      {
-        "title": "Scientists Use AI To Decode Animal Communication, Finding Whale And Crow Calls More Complex Than Once Thought - International Business Times Australia",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaGctdXNqdFBTQzZuVFRKMS1UankzcGdNcmFrQzBEVGZxQ2JCUlZ2WUhDc3pWYXREbE1vaW5kaTROWDFOel9YeWtDcXJydXFwSHA5RzB1bm5SNzltZDc2eDNGZkpnVVVqMDZ3bGlBSEQ5LWNrQnh6T0taZlczV3FVUkFDenlqWnND?oc=5",
-        "source": "International Business Times Australia",
-        "timestamp": 1788695729
-      },
-      {
-        "title": "Abu Dhabi’s G42 Weighs US Ownership to Secure Access to Advanced AI Chips - waya.media",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaXJoVmU5TF9IUXlBOFJWTUdNNF9GbHhCQXdjNVFjTDdVam8tMmQybFozWEljNElGZ0NVTnY5YjV5TVJ0SHlMbnpRSE1TOXZ2OVRqUHZ3ZUlfTmpyVHhBV01FaTdtd3UxaHZ3dVdoTHJHSFdhbUsxX0ZCQTRyX1RrQm9GenYtbEVrMGN2Mms5LXVFVHJWRVBJ?oc=5",
-        "source": "waya.media",
-        "timestamp": 1788693053
-      },
-      {
-        "title": "Andreessen Horowitz Expands Growth Fund to $8.5 Billion - Vocal",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ09OaU9wci1XUGtWZ2I4WWtnTVpfUzZfYWlrbGhZaGcwNV9wZVMzNm1SUXBneXM4U05Wd0xCSzloOU1iRW5oODFaWWNQcGpQSlliZ2FBS0xPMGx5OXZ3YTlueWVZa0p5QXNXNmlXTGNEcXdSb29vVVdoT3NsYjN0enFQeGVsVEho?oc=5",
-        "source": "Vocal",
-        "timestamp": 1788692779
-      },
-      {
-        "title": "China will never allow any country to achieve AI dominance: Victor Gao - South China Morning Post",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaWk0TDlOZmVMdjBpajYtT3JmUUNKQ2FXNXNVVVhzVDN1VGFRd1FvYjdzd3F3ZjR5VGVVcUtRLVRkLWsxaXVMRG1MSms0WW5fTTVFZ0hRV2dCUHQxd3U4QW52b3lyNjNYbFJkTG80Unl6T1BkRHI4eDFYQWQtNmQzdnAyRVZSNS15dUFheFlPVXBOcnRzU05QNXU4am5UNnZzcHJRdnpaNjZsYWJvWjFlOXExSkhtd3pNTjBXZklpR0J4VGpIMndN0gHHAUFVX3lxTFBOSXBDb25QOEs4dDVzWGxROElMTUxGRkVpMjBzc1ZFUG1xYThwOWx6M3c3TmFtSXR1U2k4czcxcjBvOVkwdHljZVNUYmVwVkJlajVfVEpnS3dEYjVpbkdkLW0ybS10VG5XUy1HWEVVYU1LZmlPZ09vZlUwanhuSUktMDdNQWlfZHZXOTBneEhSQmVUaS1KekxQdXUyQmxzSDBFX1VIRDFRM2ZJZTNfYnV1eVdVdDNrOU1JWnZYT2J4Z0RSclBOejQ?oc=5",
-        "source": "South China Morning Post",
-        "timestamp": 1788692409
-      },
-      {
-        "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5",
-        "source": "The Guardian",
-        "timestamp": 1788692400
-      },
-      {
-        "title": "Google brings AI music generation directly into the Gemini app with its new Lyria 3.5 model - the-decoder.com",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2Z0TnFtZUpfcVlkSXhZVWxIaVVuNTR4TXhXbEhPS3QxZjdQZF82STFocU1EeEc2VzVjbXpDbGpxYVBBdEV5WWUzUVE1cmRidV9pLUpnOUlWZ2xaSExFNlBxTnFMT0NySFRkckVadkdwRzJ6RlNVZjlTbks5bktzSG5ISnR0LXR2cGI4QVNxNzRuOHdSNm1xLUtPRWVSNkdMdEt3N3JaV3UxTTJlbDVNMUFSNlp4cGM?oc=5",
-        "source": "the-decoder.com",
-        "timestamp": 1788691536
-      },
-      {
-        "title": "Open Models are the United Front of AI - ChinaTalk | Jordan Schneider",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EeFVSZi1QdEFXS0R5VHh2aGRnS2JOVGdDcVU0MEtHXzJPMXdnbVJabFY5eVN1dnBQNTREcEFoeGk2MFV2WERPZi1hUHlsMEVOdkN4WnU5SlJtd3NydHJOZ1VfOFJVTDdZOW1WOWZYOA?oc=5",
-        "source": "ChinaTalk | Jordan Schneider",
-        "timestamp": 1788691534
       }
     ]
   }
